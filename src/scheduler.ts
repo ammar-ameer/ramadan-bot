@@ -1,14 +1,11 @@
 import cron from 'node-cron';
 import { whatsAppService } from './services/whatsapp.service';
 import { config } from './config';
-import fs from 'fs';
-import path from 'path';
+// Import meal plan directly so it's included in the build
+import mealPlanRaw from './data/mealPlan.json';
 import { MealPlanData } from './types';
 
-// Load meal plan data
-const mealPlanPath = path.join(__dirname, 'data', 'mealPlan.json');
-const mealPlanRaw = fs.readFileSync(mealPlanPath, 'utf-8');
-const mealPlan: MealPlanData = JSON.parse(mealPlanRaw);
+const mealPlan: MealPlanData = mealPlanRaw as unknown as MealPlanData;
 
 // Helper to get current Ramadan day
 function getRamadanDay(): number {
