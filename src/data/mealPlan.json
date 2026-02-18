@@ -1,0 +1,2436 @@
+{
+  "meta": {
+    "title": "റമദാൻ 30 ദിവസത്തെ ആരോഗ്യ ഭക്ഷണ പദ്ധതി",
+    "language": "ml",
+    "persons": {
+      "ammar": {
+        "weight": 114,
+        "height": 180,
+        "targetCalories": 1800,
+        "note": "പാൽ കഴിക്കില്ല"
+      },
+      "ajmi": {
+        "weight": 70,
+        "height": 154,
+        "targetCalories": 1300
+      },
+      "abu": {
+        "weight": 100,
+        "height": 180,
+        "targetCalories": 1700,
+        "note": "പാൽ കഴിക്കും"
+      }
+    },
+    "suhoorRule": "പരമാവധി 15 മിനിറ്റ് — ലളിതവും വേഗത്തിലും തയ്യാറാക്കാവുന്നത്",
+    "iftarRotation": [
+      "കടലക്കറി",
+      "മുട്ടക്കറി",
+      "ചിക്കൻ കറി",
+      "മീൻ കറി"
+    ],
+    "weeklySpecial": "7, 14, 21, 28 ദിവസം — ബീഫ്/മട്ടൻ"
+  },
+  "days": [
+    {
+      "day": 1,
+      "suhoor": {
+        "dish": "ഓട്സ് പൊറിഞ്ച് + വേവിച്ച മുട്ട",
+        "prepTime": "10 മിനിറ്റ്",
+        "tip": "മുട്ട മുൻദിവസം രാത്രി വേവിച്ച് ഫ്രിഡ്ജിൽ വയ്ക്കുക",
+        "ingredients": [
+          "ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്",
+          "വെള്ളം — 2 കപ്പ്",
+          "ഉപ്പ് — ഒരു നുള്ള്",
+          "കറുവ പൊടി — ¼ ടീ സ്പൂൺ",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2",
+          "Ammar-നും Abu-വിനും: ഗ്രീൻ ടി 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: പാൽ 1 ഗ്ലാസ്"
+        ],
+        "method": [
+          "1. ഒരു പാത്രത്തിൽ 2 കപ്പ് വെള്ളം തിളപ്പിക്കുക.",
+          "2. ഓട്സ് ഇട്ട് ഇളക്കുക. 3-4 മിനിറ്റ് വേവിക്കുക.",
+          "3. കറുവ + ഉപ്പ് ചേർക്കുക. ഇളക്കി ഇറക്കുക.",
+          "4. ഫ്രിഡ്ജിൽ നിന്ന് മുട്ട എടുത്ത് തൊലി കളഞ്ഞ് വയ്ക്കുക.",
+          "5. ഗ്രീൻ ടി / പാൽ ഒപ്പം കൊടുക്കുക."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 1 മുട്ട + 1 ഗ്ലാസ് പാൽ",
+          "abu": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 480,
+          "ajmi": 350,
+          "abu": 460
+        },
+        "healthTip": "ഓട്സ് ബ്ലഡ് ഷുഗർ നിയന്ത്രിക്കുന്നു — നോമ്പ് മുഴുവൻ ഊർജ്ജം നൽകും.",
+        "dish_en": "Oats Porridge + Boiled Eggs",
+        "method_en": [
+          "1. Boil 2 cups water in a pot.",
+          "2. Add oats, stir and cook for 3-4 minutes.",
+          "3. Add cinnamon + salt, mix and remove from heat.",
+          "4. Take boiled eggs from fridge, peel and serve.",
+          "5. Serve with green tea / lemon tea (Ammar), milk (Abu & Ajmi)."
+        ],
+        "healthTip_en": "Oats controls blood sugar — keeps you energised throughout the fast."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ് — 2 കപ്പ്",
+          "ഉപ്പ് — ½ ടീ സ്പൂൺ",
+          "വെള്ളം — ആവശ്യത്തിന്",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി — 2 (അരിഞ്ഞത്)",
+          "തക്കാളി — 2 (അരിഞ്ഞത്)",
+          "ഇഞ്ചി-വെളുത്തുള്ളി അരച്ചത് — 1 ടേബ്ൾ സ്പൂൺ",
+          "മഞ്ഞൾ — ½ ടീ സ്പൂൺ",
+          "ഗരം മസാല — ½ ടീ സ്പൂൺ",
+          "എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ",
+          "കൂക്കംബർ + തക്കാളി + ഉള്ളി (സലാഡിന്)"
+        ],
+        "method": [
+          "--- പത്തിരി ---",
+          "1. ഗോതമ്പ് മാവ് + ഉപ്പ് + വെള്ളം ചേർത്ത് മൃദുവായ മാവ് കുഴയ്ക്കുക.",
+          "2. ചെറിയ ഉരുളകൾ ഉണ്ടാക്കി കനം കുറഞ്ഞ് ഇടുക.",
+          "3. ചൂടുള്ള തവയിൽ (എണ്ണ ഇല്ലാതെ) ഇരുവശവും ചുട്ടെടുക്കുക.",
+          "--- ചിക്കൻ കറി ---",
+          "4. ഒരു പാത്രത്തിൽ 1 ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കുക.",
+          "5. ഉള്ളി ഇട്ട് സ്വർണ്ണ നിറം ആകുന്നത് വരെ വഴറ്റുക.",
+          "6. ഇഞ്ചി-വെളുത്തുള്ളി, മഞ്ഞൾ, ഗരം മസാല ചേർക്കുക.",
+          "7. തക്കാളി ഇട്ട് ഇളക്കി വേവിക്കുക.",
+          "8. ചിക്കൻ ഇട്ട് വേവുന്നത് വരെ (15-20 മിനിറ്റ്) കറി ഉണ്ടാക്കുക.",
+          "--- സലാഡ് ---",
+          "9. കൂക്കംബർ + തക്കാളി + ഉള്ളി + ലിമ്മൺ നീര് + ഉപ്പ് ചേർക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 660,
+          "ajmi": 470,
+          "abu": 620
+        },
+        "healthTip": "ഇഫ്താർ ആദ്യം ഈന്തപ്പഴം + വെള്ളം. 10 മിനിറ്റ് കഴിഞ്ഞ് ഭക്ഷണം കഴിക്കുക.",
+        "dish_en": "Wheat Pathiri + Chicken Curry + Fresh Salad",
+        "method_en": [
+          "--- Wheat Pathiri ---",
+          "1. Mix wheat flour + salt + water into a soft dough.",
+          "2. Make small balls, roll out thin.",
+          "3. Cook on hot tawa (no oil) on both sides.",
+          "--- Chicken Curry ---",
+          "4. Heat 1 tbsp oil, sauté onion till golden.",
+          "5. Add ginger-garlic paste, turmeric, garam masala.",
+          "6. Add tomatoes, stir and cook.",
+          "7. Add chicken, cook 15-20 minutes till done.",
+          "--- Salad ---",
+          "8. Mix cucumber + tomato + onion + lemon juice + salt."
+        ],
+        "healthTip_en": "Break your fast with dates + water first. Wait 10 minutes before the main meal."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 1 — Day 1*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് പൊറിഞ്ച് + വേവിച്ച മുട്ട*\n    _Oats Porridge + Boiled Eggs_\n⏱️ 10 മിനിറ്റ്\n💭 _മുട്ട മുൻദിവസം രാത്രി വേവിച്ച് ഫ്രിഡ്ജിൽ വയ്ക്കുക_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്\n  • വെള്ളം — 2 കപ്പ്\n  • ഉപ്പ് — ഒരു നുള്ള്\n  • കറുവ പൊടി — ¼ ടീ സ്പൂൺ\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n  • Ammar-നും Abu-വിനും: ഗ്രീൻ ടി 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: പാൽ 1 ഗ്ലാസ്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഒരു പാത്രത്തിൽ 2 കപ്പ് വെള്ളം തിളപ്പിക്കുക.\n  2. ഓട്സ് ഇട്ട് ഇളക്കുക. 3-4 മിനിറ്റ് വേവിക്കുക.\n  3. കറുവ + ഉപ്പ് ചേർക്കുക. ഇളക്കി ഇറക്കുക.\n  4. ഫ്രിഡ്ജിൽ നിന്ന് മുട്ട എടുത്ത് തൊലി കളഞ്ഞ് വയ്ക്കുക.\n  5. ഗ്രീൻ ടി / പാൽ ഒപ്പം കൊടുക്കുക.\n\n  1. Boil 2 cups water in a pot.\n  2. Add oats, stir and cook for 3-4 minutes.\n  3. Add cinnamon + salt, mix and remove from heat.\n  4. Take boiled eggs from fridge, peel and serve.\n  5. Serve with green tea / lemon tea (Ammar), milk (Abu & Ajmi).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 1 മുട്ട + 1 ഗ്ലാസ് പാൽ\n  • Abu: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഓട്സ് ബ്ലഡ് ഷുഗർ നിയന്ത്രിക്കുന്നു — നോമ്പ് മുഴുവൻ ഊർജ്ജം നൽകും.\n    _Oats controls blood sugar — keeps you energised throughout the fast._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Chicken Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ് — 2 കപ്പ്\n  • ഉപ്പ് — ½ ടീ സ്പൂൺ\n  • വെള്ളം — ആവശ്യത്തിന്\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി — 2 (അരിഞ്ഞത്)\n  • തക്കാളി — 2 (അരിഞ്ഞത്)\n  • ഇഞ്ചി-വെളുത്തുള്ളി അരച്ചത് — 1 ടേബ്ൾ സ്പൂൺ\n  • മഞ്ഞൾ — ½ ടീ സ്പൂൺ\n  • ഗരം മസാല — ½ ടീ സ്പൂൺ\n  • എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ\n  • കൂക്കംബർ + തക്കാളി + ഉള്ളി (സലാഡിന്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- പത്തിരി ---\n  1. ഗോതമ്പ് മാവ് + ഉപ്പ് + വെള്ളം ചേർത്ത് മൃദുവായ മാവ് കുഴയ്ക്കുക.\n  2. ചെറിയ ഉരുളകൾ ഉണ്ടാക്കി കനം കുറഞ്ഞ് ഇടുക.\n  3. ചൂടുള്ള തവയിൽ (എണ്ണ ഇല്ലാതെ) ഇരുവശവും ചുട്ടെടുക്കുക.\n  --- ചിക്കൻ കറി ---\n  4. ഒരു പാത്രത്തിൽ 1 ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കുക.\n  5. ഉള്ളി ഇട്ട് സ്വർണ്ണ നിറം ആകുന്നത് വരെ വഴറ്റുക.\n  6. ഇഞ്ചി-വെളുത്തുള്ളി, മഞ്ഞൾ, ഗരം മസാല ചേർക്കുക.\n  7. തക്കാളി ഇട്ട് ഇളക്കി വേവിക്കുക.\n  8. ചിക്കൻ ഇട്ട് വേവുന്നത് വരെ (15-20 മിനിറ്റ്) കറി ഉണ്ടാക്കുക.\n  --- സലാഡ് ---\n  9. കൂക്കംബർ + തക്കാളി + ഉള്ളി + ലിമ്മൺ നീര് + ഉപ്പ് ചേർക്കുക.\n\n  --- Wheat Pathiri ---\n  1. Mix wheat flour + salt + water into a soft dough.\n  2. Make small balls, roll out thin.\n  3. Cook on hot tawa (no oil) on both sides.\n  --- Chicken Curry ---\n  4. Heat 1 tbsp oil, sauté onion till golden.\n  5. Add ginger-garlic paste, turmeric, garam masala.\n  6. Add tomatoes, stir and cook.\n  7. Add chicken, cook 15-20 minutes till done.\n  --- Salad ---\n  8. Mix cucumber + tomato + onion + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഇഫ്താർ ആദ്യം ഈന്തപ്പഴം + വെള്ളം. 10 മിനിറ്റ് കഴിഞ്ഞ് ഭക്ഷണം കഴിക്കുക.\n    _Break your fast with dates + water first. Wait 10 minutes before the main meal._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 2,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + വേവിച്ച മുട്ട",
+        "prepTime": "12 മിനിറ്റ്",
+        "tip": "മാവ് മുൻദിവസം രാത്രി കുഴച്ചുവച്ചാൽ രാവിലെ നേരിട്ട് ചുടാം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ് — 2 കപ്പ്",
+          "ഉപ്പ് — ½ ടീ സ്പൂൺ",
+          "വെള്ളം — ആവശ്യത്തിന്",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: പാൽ"
+        ],
+        "method": [
+          "1. മാവ് (മുൻദിവസം കുഴച്ചത്) ചെറിയ ഉരുളകൾ ആക്കി കനം കുറഞ്ഞ് ഇടുക.",
+          "2. ചൂടുള്ള തവയിൽ (എണ്ണ ഇല്ലാതെ) ഇരുവശവും ചുട്ടെടുക്കുക. 5 മിനിറ്റ്.",
+          "3. ഫ്രിഡ്ജിൽ നിന്ന് മുട്ട എടുത്ത് ഒപ്പം കൊടുക്കുക.",
+          "4. ഗ്രീൻ ടി / പാൽ ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "2 ചെറിയ പത്തിരി + 1 മുട്ട + പാൽ",
+          "abu": "2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 460,
+          "ajmi": 330,
+          "abu": 440
+        },
+        "healthTip": "ഗോതമ്പ് പത്തിരി വെള്ള അരി പത്തിരിയേക്കാൾ ഫൈബർ കൂടുതൽ.",
+        "dish_en": "Wheat Pathiri + Boiled Eggs",
+        "method_en": [
+          "1. Take dough (kneaded last night) from fridge.",
+          "2. Roll out thin, cook on hot tawa (no oil) both sides. 5 mins.",
+          "3. Take boiled eggs from fridge, peel and serve.",
+          "4. Serve with green tea / lemon tea (Ammar), milk (Abu & Ajmi)."
+        ],
+        "healthTip_en": "Wheat pathiri has more fibre than white rice pathiri — keeps you full longer."
+      },
+      "iftar": {
+        "dish": "കടലക്കറി + ഓട്സ് ദോശ",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "--- ഓട്സ് ദോശ ---",
+          "ഓട്സ് — 1 കപ്പ്",
+          "ഉഴുന്ന് (കഴുകി 4 മണിക്കൂർ കുതിർത്തത്) — ½ കപ്പ്",
+          "ഉപ്പ് — ½ ടീ സ്പൂൺ",
+          "വെള്ളം — ആവശ്യത്തിന്",
+          "--- കടലക്കറി ---",
+          "കടല (വേവിച്ചത്) — 2 കപ്പ്",
+          "ഉള്ളി — 2 (അരിഞ്ഞത്)",
+          "തക്കാളി — 2 (അരിഞ്ഞത്)",
+          "ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ",
+          "മഞ്ഞൾ, ചുവന്ന മുളക് പൊടി, ഗരം മസാല — ½ ടീ സ്പൂൺ വീതം",
+          "തേങ്ങ പാൽ — 2 ടേബ്ൾ സ്പൂൺ (കുറച്ചേ ഉള്ളൂ)",
+          "എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ"
+        ],
+        "method": [
+          "--- ഓട്സ് ദോശ ---",
+          "1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം മിക്സ് ചെയ്ത് ദോശ മാവ് ആക്കുക.",
+          "2. ചൂടുള്ള തവയിൽ തേക്കിട്ട് (ഒരു ടീ സ്പൂൺ എണ്ണ) ദോശ ചുട്ടെടുക്കുക.",
+          "--- കടലക്കറി ---",
+          "3. എണ്ണ ചൂടാക്കി ഉള്ളി, ഇഞ്ചി-വെളുത്തുള്ളി വഴറ്റുക.",
+          "4. മസാലകൾ + തക്കാളി ഇട്ട് ഇളക്കി വേവിക്കുക.",
+          "5. വേവിച്ച കടല ഇട്ട് 10 മിനിറ്റ് കൂടി വേവിക്കുക.",
+          "6. തേങ്ങ പാൽ ഇട്ട് ഒരു തിളപ്പ് വരട്ടൂ, ഇറക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 ദോശ + 1 കപ്പ് കടലക്കറി",
+          "ajmi": "2 ചെറിയ ദോശ + ¾ കപ്പ് കടലക്കറി",
+          "abu": "2 ദോശ + 1 കപ്പ് കടലക്കറി"
+        },
+        "calories": {
+          "ammar": 620,
+          "ajmi": 440,
+          "abu": 590
+        },
+        "healthTip": "കടല ഉയർന്ന ഫൈബർ + പ്രോട്ടീൻ — ആഴ്ചയിൽ 2 ദിവസം ഉൾപ്പെടുത്തുക.",
+        "dish_en": "Oats Dosa + Kadala Curry (Chickpea Curry)",
+        "method_en": [
+          "--- Oats Dosa ---",
+          "1. Mix oats + soaked urad dal + salt + water into batter.",
+          "2. Pour on hot tawa with a little oil, cook till crisp.",
+          "--- Kadala Curry ---",
+          "3. Heat oil, sauté onion + ginger-garlic paste.",
+          "4. Add spices + tomatoes, stir and cook.",
+          "5. Add cooked chickpeas + coconut milk (2 tbsp only), cook 10 mins.",
+          "--- Green Chutney ---",
+          "6. Blend fresh coriander + coconut + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Kadala (chickpeas) is high fibre + protein — include it at least twice a week."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 2 — Day 2*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + വേവിച്ച മുട്ട*\n    _Wheat Pathiri + Boiled Eggs_\n⏱️ 12 മിനിറ്റ്\n💭 _മാവ് മുൻദിവസം രാത്രി കുഴച്ചുവച്ചാൽ രാവിലെ നേരിട്ട് ചുടാം_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ് — 2 കപ്പ്\n  • ഉപ്പ് — ½ ടീ സ്പൂൺ\n  • വെള്ളം — ആവശ്യത്തിന്\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: പാൽ\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. മാവ് (മുൻദിവസം കുഴച്ചത്) ചെറിയ ഉരുളകൾ ആക്കി കനം കുറഞ്ഞ് ഇടുക.\n  2. ചൂടുള്ള തവയിൽ (എണ്ണ ഇല്ലാതെ) ഇരുവശവും ചുട്ടെടുക്കുക. 5 മിനിറ്റ്.\n  3. ഫ്രിഡ്ജിൽ നിന്ന് മുട്ട എടുത്ത് ഒപ്പം കൊടുക്കുക.\n  4. ഗ്രീൻ ടി / പാൽ ഒപ്പം.\n\n  1. Take dough (kneaded last night) from fridge.\n  2. Roll out thin, cook on hot tawa (no oil) both sides. 5 mins.\n  3. Take boiled eggs from fridge, peel and serve.\n  4. Serve with green tea / lemon tea (Ammar), milk (Abu & Ajmi).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 2 ചെറിയ പത്തിരി + 1 മുട്ട + പാൽ\n  • Abu: 2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഗോതമ്പ് പത്തിരി വെള്ള അരി പത്തിരിയേക്കാൾ ഫൈബർ കൂടുതൽ.\n    _Wheat pathiri has more fibre than white rice pathiri — keeps you full longer._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *കടലക്കറി + ഓട്സ് ദോശ*\n    _Oats Dosa + Kadala Curry (Chickpea Curry)_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • --- ഓട്സ് ദോശ ---\n  • ഓട്സ് — 1 കപ്പ്\n  • ഉഴുന്ന് (കഴുകി 4 മണിക്കൂർ കുതിർത്തത്) — ½ കപ്പ്\n  • ഉപ്പ് — ½ ടീ സ്പൂൺ\n  • വെള്ളം — ആവശ്യത്തിന്\n  • --- കടലക്കറി ---\n  • കടല (വേവിച്ചത്) — 2 കപ്പ്\n  • ഉള്ളി — 2 (അരിഞ്ഞത്)\n  • തക്കാളി — 2 (അരിഞ്ഞത്)\n  • ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ\n  • മഞ്ഞൾ, ചുവന്ന മുളക് പൊടി, ഗരം മസാല — ½ ടീ സ്പൂൺ വീതം\n  • തേങ്ങ പാൽ — 2 ടേബ്ൾ സ്പൂൺ (കുറച്ചേ ഉള്ളൂ)\n  • എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- ഓട്സ് ദോശ ---\n  1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം മിക്സ് ചെയ്ത് ദോശ മാവ് ആക്കുക.\n  2. ചൂടുള്ള തവയിൽ തേക്കിട്ട് (ഒരു ടീ സ്പൂൺ എണ്ണ) ദോശ ചുട്ടെടുക്കുക.\n  --- കടലക്കറി ---\n  3. എണ്ണ ചൂടാക്കി ഉള്ളി, ഇഞ്ചി-വെളുത്തുള്ളി വഴറ്റുക.\n  4. മസാലകൾ + തക്കാളി ഇട്ട് ഇളക്കി വേവിക്കുക.\n  5. വേവിച്ച കടല ഇട്ട് 10 മിനിറ്റ് കൂടി വേവിക്കുക.\n  6. തേങ്ങ പാൽ ഇട്ട് ഒരു തിളപ്പ് വരട്ടൂ, ഇറക്കുക.\n\n  --- Oats Dosa ---\n  1. Mix oats + soaked urad dal + salt + water into batter.\n  2. Pour on hot tawa with a little oil, cook till crisp.\n  --- Kadala Curry ---\n  3. Heat oil, sauté onion + ginger-garlic paste.\n  4. Add spices + tomatoes, stir and cook.\n  5. Add cooked chickpeas + coconut milk (2 tbsp only), cook 10 mins.\n  --- Green Chutney ---\n  6. Blend fresh coriander + coconut + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 ദോശ + 1 കപ്പ് കടലക്കറി\n  • Ajmi: 2 ചെറിയ ദോശ + ¾ കപ്പ് കടലക്കറി\n  • Abu: 2 ദോശ + 1 കപ്പ് കടലക്കറി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* കടല ഉയർന്ന ഫൈബർ + പ്രോട്ടീൻ — ആഴ്ചയിൽ 2 ദിവസം ഉൾപ്പെടുത്തുക.\n    _Kadala (chickpeas) is high fibre + protein — include it at least twice a week._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 3,
+      "suhoor": {
+        "dish": "ഓട്സ് + ബദാം + ബനാന",
+        "prepTime": "5 മിനിറ്റ്",
+        "tip": "ഏറ്റവും വേഗം — പാചകം ഇല്ലാതെ ഉണ്ടാക്കാം",
+        "ingredients": [
+          "ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്",
+          "ചൂടുവെള്ളം — 1½ കപ്പ്",
+          "ബദാം — 5 എണ്ണം",
+          "ബനാന — 1",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: ദഹി 1 ഗ്ലാസ്"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കി വിടുക.",
+          "2. ബദാം + ബനാന ചേർക്കുക.",
+          "3. ഗ്രീൻ ടി / ദഹി ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ½ ബനാന + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + ½ ബനാന + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ½ ബനാന + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 430,
+          "ajmi": 310,
+          "abu": 415
+        },
+        "healthTip": "ബദാം ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ദൈനം 5 ബദാം ഹൃദ്രോഗ സംരക്ഷണം.",
+        "dish_en": "Oats + Almonds + Banana",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add almonds + sliced banana on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "5 almonds daily — healthy fats that protect your heart and reduce hunger."
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + മീൻ കറി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "--- ഇഡ്ഡലി (മുൻദിവസം മാവ് ഉണ്ടാക്കി ഫ്രിഡ്ജിൽ) ---",
+          "ഉഴുന്ന് — 1 കപ്പ്",
+          "ഇഡ്ഡലി അരി — 2 കപ്പ്",
+          "ഉപ്പ് — 1 ടീ സ്പൂൺ",
+          "--- മീൻ കറി ---",
+          "മീൻ (ആഞ്ചോവ്/കിളിമീൻ) — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി — 2",
+          "തക്കാളി — 2",
+          "ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ",
+          "മഞ്ഞൾ — ½ ടീ സ്പൂൺ",
+          "ചുവന്ന മുളക് — 1 ടീ സ്പൂൺ",
+          "കൊക്കം / കുടംപുളി — 2 കഷ്ണം",
+          "എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ",
+          "കൂക്കംബർ-തക്കാളി സലാഡ്"
+        ],
+        "method": [
+          "--- ഇഡ്ഡലി ---",
+          "1. ഇഡ്ഡലി അച്ചിൽ മാവ് ഒഴിച്ച് 10-12 മിനിറ്റ് ആവി കൊള്ളിക്കുക.",
+          "--- മീൻ കറി ---",
+          "2. ഒരു പാത്രത്തിൽ എണ്ണ ചൂടാക്കുക.",
+          "3. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി ഇട്ട് വഴറ്റുക.",
+          "4. മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി ഇട്ട് ഇളക്കുക.",
+          "5. കൊക്കം + വെള്ളം ഇട്ട് തിളപ്പിക്കുക.",
+          "6. മീൻ ഇട്ട് 8-10 മിനിറ്റ് കറി വേവിക്കുക."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 200g മീൻ കറി + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ഇഡ്ഡലി + 120g മീൻ കറി + 1 കപ്പ് സലാഡ്",
+          "abu": "3 ഇഡ്ഡലി + 180g മീൻ കറി + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 630,
+          "ajmi": 445,
+          "abu": 595
+        },
+        "healthTip": "മീൻ ഒമേഗ-3 ഫ്യാറ്റി ആസിഡ് — ആഴ്ചയിൽ 2-3 തവണ കഴിക്കുക.",
+        "dish_en": "Idli + Fish Curry (Meen Curry)",
+        "method_en": [
+          "--- Idli ---",
+          "1. Pour idli batter into mould, steam for 10-12 minutes.",
+          "--- Fish Curry ---",
+          "2. Heat oil, sauté onion + ginger-garlic paste.",
+          "3. Add turmeric + red chilli + tomatoes + kudampuli, stir.",
+          "4. Add water, bring to boil.",
+          "5. Add fish, cook 8-10 minutes till done."
+        ],
+        "healthTip_en": "Fish is rich in Omega-3 fatty acids — eat 2-3 times a week for best results."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 3 — Day 3*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ബദാം + ബനാന*\n    _Oats + Almonds + Banana_\n⏱️ 5 മിനിറ്റ്\n💭 _ഏറ്റവും വേഗം — പാചകം ഇല്ലാതെ ഉണ്ടാക്കാം_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്\n  • ചൂടുവെള്ളം — 1½ കപ്പ്\n  • ബദാം — 5 എണ്ണം\n  • ബനാന — 1\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: ദഹി 1 ഗ്ലാസ്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കി വിടുക.\n  2. ബദാം + ബനാന ചേർക്കുക.\n  3. ഗ്രീൻ ടി / ദഹി ഒപ്പം.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add almonds + sliced banana on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ½ ബനാന + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + ½ ബനാന + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ½ ബനാന + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ബദാം ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ദൈനം 5 ബദാം ഹൃദ്രോഗ സംരക്ഷണം.\n    _5 almonds daily — healthy fats that protect your heart and reduce hunger._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + മീൻ കറി*\n    _Idli + Fish Curry (Meen Curry)_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • --- ഇഡ്ഡലി (മുൻദിവസം മാവ് ഉണ്ടാക്കി ഫ്രിഡ്ജിൽ) ---\n  • ഉഴുന്ന് — 1 കപ്പ്\n  • ഇഡ്ഡലി അരി — 2 കപ്പ്\n  • ഉപ്പ് — 1 ടീ സ്പൂൺ\n  • --- മീൻ കറി ---\n  • മീൻ (ആഞ്ചോവ്/കിളിമീൻ) — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി — 2\n  • തക്കാളി — 2\n  • ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ\n  • മഞ്ഞൾ — ½ ടീ സ്പൂൺ\n  • ചുവന്ന മുളക് — 1 ടീ സ്പൂൺ\n  • കൊക്കം / കുടംപുളി — 2 കഷ്ണം\n  • എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ\n  • കൂക്കംബർ-തക്കാളി സലാഡ്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- ഇഡ്ഡലി ---\n  1. ഇഡ്ഡലി അച്ചിൽ മാവ് ഒഴിച്ച് 10-12 മിനിറ്റ് ആവി കൊള്ളിക്കുക.\n  --- മീൻ കറി ---\n  2. ഒരു പാത്രത്തിൽ എണ്ണ ചൂടാക്കുക.\n  3. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി ഇട്ട് വഴറ്റുക.\n  4. മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി ഇട്ട് ഇളക്കുക.\n  5. കൊക്കം + വെള്ളം ഇട്ട് തിളപ്പിക്കുക.\n  6. മീൻ ഇട്ട് 8-10 മിനിറ്റ് കറി വേവിക്കുക.\n\n  --- Idli ---\n  1. Pour idli batter into mould, steam for 10-12 minutes.\n  --- Fish Curry ---\n  2. Heat oil, sauté onion + ginger-garlic paste.\n  3. Add turmeric + red chilli + tomatoes + kudampuli, stir.\n  4. Add water, bring to boil.\n  5. Add fish, cook 8-10 minutes till done.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 200g മീൻ കറി + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ഇഡ്ഡലി + 120g മീൻ കറി + 1 കപ്പ് സലാഡ്\n  • Abu: 3 ഇഡ്ഡലി + 180g മീൻ കറി + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* മീൻ ഒമേഗ-3 ഫ്യാറ്റി ആസിഡ് — ആഴ്ചയിൽ 2-3 തവണ കഴിക്കുക.\n    _Fish is rich in Omega-3 fatty acids — eat 2-3 times a week for best results._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 4,
+      "suhoor": {
+        "dish": "മുട്ട ഓംലറ്റ് (ഗ്രീൻ) + ഗോതമ്പ് ബ്രഡ്",
+        "prepTime": "8 മിനിറ്റ്",
+        "tip": "ഉള്ളി + തക്കാളി + ഇഞ്ചി ചേർത്ത ഓംലറ്റ് — കഴിക്കാൻ ഒരു ചൂടുണ്ടാകും",
+        "ingredients": [
+          "മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3",
+          "ഉള്ളി — 1 (ചെറുതായി അരിഞ്ഞത്)",
+          "ഇഞ്ചി — ചെറിയ കഷ്ണം",
+          "ഹരിത മുളക് — 1",
+          "ഉപ്പ്, കറുമ്മുളക് — ആവശ്യത്തിന്",
+          "ഗോതമ്പ് ബ്രഡ് — Ammar: 2 സ്ലൈസ്, Ajmi: 1 സ്ലൈസ്, Abu: 2 സ്ലൈസ്",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: ദഹി"
+        ],
+        "method": [
+          "1. മുട്ട അടിക്കുക. ഉള്ളി + ഇഞ്ചി + ഹരിത മുളക് + ഉപ്പ് + കറുമ്മുളക് ഇളക്കി ചേർക്കുക.",
+          "2. ഒരു ടീ സ്പൂൺ എണ്ണ ചൂടാക്കി മിശ്രം ഒഴിക്കുക.",
+          "3. ഇരുവശവും മൃദുവായി വേവിക്കുക. 5 മിനിറ്റ്.",
+          "4. ഗോതമ്പ് ബ്രഡ് തവയിൽ ടോസ്റ്റ് ചെയ്ത് ഒപ്പം കൊടുക്കുക."
+        ],
+        "portions": {
+          "ammar": "3 മുട്ട ഓംലറ്റ് + 2 ബ്രഡ് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "2 മുട്ട ഓംലറ്റ് + 1 ബ്രഡ് + ദഹി",
+          "abu": "3 മുട്ട ഓംലറ്റ് + 2 ബ്രഡ് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 470,
+          "ajmi": 325,
+          "abu": 450
+        },
+        "healthTip": "മുട്ട ഉയർന്ന ഗുണമേന്മ പ്രോട്ടീൻ — ദൈനം 2-3 മുട്ട ആരോഗ്യകരം.",
+        "dish_en": "Green Omelette + Whole Wheat Bread",
+        "method_en": [
+          "1. Beat eggs. Add finely chopped onion + ginger + green chilli + salt + pepper.",
+          "2. Heat 1 tsp oil, pour egg mixture.",
+          "3. Cook gently on both sides. 5 minutes.",
+          "4. Toast wheat bread on tawa and serve alongside."
+        ],
+        "healthTip_en": "Eggs are high quality protein — 2-3 eggs daily is healthy and helps preserve muscle."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + മുട്ടക്കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ് — 2 കപ്പ്",
+          "ഉപ്പ് — ½ ടീ സ്പൂൺ",
+          "--- മുട്ടക്കറി ---",
+          "മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3 (വേവിച്ചത്)",
+          "ഉള്ളി — 2",
+          "തക്കാളി — 2",
+          "ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ",
+          "മഞ്ഞൾ — ½ ടീ സ്പൂൺ",
+          "ഗരം മസാല — ½ ടീ സ്പൂൺ",
+          "തേങ്ങ പാൽ — 2 ടേബ്ൾ സ്പൂൺ",
+          "എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ",
+          "കൂക്കംബർ + ഉള്ളി + ഹരിത മുളക് + ലിമ്മൺ (സലാഡ്)"
+        ],
+        "method": [
+          "--- പത്തിരി ---",
+          "1. ഗോതമ്പ് മാവ് + ഉപ്പ് + വെള്ളം ചേർത്ത് മൃദുവായ മാവ് കുഴയ്ക്കുക.",
+          "2. ചൂടുള്ള തവയിൽ (എണ്ണ ഇല്ലാതെ) ചുട്ടെടുക്കുക.",
+          "--- മുട്ടക്കറി ---",
+          "3. മുട്ട വേവിച്ച് തൊലി കളഞ്ഞ് 2-3 വട്ടം കോറിയിടുക.",
+          "4. ഒരു ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കി ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി വഴറ്റുക.",
+          "5. മസാലകൾ + തക്കാളി ഇട്ട് ഇളക്കി ഒരു ബോൾ ഉണ്ടാക്കുക.",
+          "6. മുട്ട + തേങ്ങ പാൽ ഇട്ട് 5 മിനിറ്റ് കൂടി വേവിക്കുക.",
+          "--- സലാഡ് ---",
+          "7. കൂക്കംബർ + ഉള്ളി + ലിമ്മൺ + ഉപ്പ് ചേർക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 3 മുട്ട + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 2 മുട്ട + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 3 മുട്ട + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 640,
+          "ajmi": 450,
+          "abu": 605
+        },
+        "healthTip": "മുട്ടക്കറിയിൽ തേങ്ങ പാൽ കുറച്ചേ ഉപയോഗിക്കൂ — കലോറി നിയന്ത്രണം.",
+        "dish_en": "Wheat Pathiri + Egg Curry + Fresh Salad",
+        "method_en": [
+          "--- Wheat Pathiri ---",
+          "1. Roll out wheat dough thin, cook on hot tawa (no oil).",
+          "--- Egg Curry ---",
+          "2. Boil eggs, peel and score them 2-3 times.",
+          "3. Heat 1 tbsp oil, sauté onion + ginger-garlic paste.",
+          "4. Add spices + tomatoes, stir into a thick base.",
+          "5. Add eggs + coconut milk (2 tbsp), cook 5 more minutes.",
+          "--- Salad ---",
+          "6. Mix cucumber + onion + lemon juice + salt."
+        ],
+        "healthTip_en": "Use only 2 tbsp coconut milk in egg curry — keeps calories in check."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 4 — Day 4*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *മുട്ട ഓംലറ്റ് (ഗ്രീൻ) + ഗോതമ്പ് ബ്രഡ്*\n    _Green Omelette + Whole Wheat Bread_\n⏱️ 8 മിനിറ്റ്\n💭 _ഉള്ളി + തക്കാളി + ഇഞ്ചി ചേർത്ത ഓംലറ്റ് — കഴിക്കാൻ ഒരു ചൂടുണ്ടാകും_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3\n  • ഉള്ളി — 1 (ചെറുതായി അരിഞ്ഞത്)\n  • ഇഞ്ചി — ചെറിയ കഷ്ണം\n  • ഹരിത മുളക് — 1\n  • ഉപ്പ്, കറുമ്മുളക് — ആവശ്യത്തിന്\n  • ഗോതമ്പ് ബ്രഡ് — Ammar: 2 സ്ലൈസ്, Ajmi: 1 സ്ലൈസ്, Abu: 2 സ്ലൈസ്\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. മുട്ട അടിക്കുക. ഉള്ളി + ഇഞ്ചി + ഹരിത മുളക് + ഉപ്പ് + കറുമ്മുളക് ഇളക്കി ചേർക്കുക.\n  2. ഒരു ടീ സ്പൂൺ എണ്ണ ചൂടാക്കി മിശ്രം ഒഴിക്കുക.\n  3. ഇരുവശവും മൃദുവായി വേവിക്കുക. 5 മിനിറ്റ്.\n  4. ഗോതമ്പ് ബ്രഡ് തവയിൽ ടോസ്റ്റ് ചെയ്ത് ഒപ്പം കൊടുക്കുക.\n\n  1. Beat eggs. Add finely chopped onion + ginger + green chilli + salt + pepper.\n  2. Heat 1 tsp oil, pour egg mixture.\n  3. Cook gently on both sides. 5 minutes.\n  4. Toast wheat bread on tawa and serve alongside.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 മുട്ട ഓംലറ്റ് + 2 ബ്രഡ് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 2 മുട്ട ഓംലറ്റ് + 1 ബ്രഡ് + ദഹി\n  • Abu: 3 മുട്ട ഓംലറ്റ് + 2 ബ്രഡ് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* മുട്ട ഉയർന്ന ഗുണമേന്മ പ്രോട്ടീൻ — ദൈനം 2-3 മുട്ട ആരോഗ്യകരം.\n    _Eggs are high quality protein — 2-3 eggs daily is healthy and helps preserve muscle._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + മുട്ടക്കറി + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Egg Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ് — 2 കപ്പ്\n  • ഉപ്പ് — ½ ടീ സ്പൂൺ\n  • --- മുട്ടക്കറി ---\n  • മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3 (വേവിച്ചത്)\n  • ഉള്ളി — 2\n  • തക്കാളി — 2\n  • ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ\n  • മഞ്ഞൾ — ½ ടീ സ്പൂൺ\n  • ഗരം മസാല — ½ ടീ സ്പൂൺ\n  • തേങ്ങ പാൽ — 2 ടേബ്ൾ സ്പൂൺ\n  • എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ\n  • കൂക്കംബർ + ഉള്ളി + ഹരിത മുളക് + ലിമ്മൺ (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- പത്തിരി ---\n  1. ഗോതമ്പ് മാവ് + ഉപ്പ് + വെള്ളം ചേർത്ത് മൃദുവായ മാവ് കുഴയ്ക്കുക.\n  2. ചൂടുള്ള തവയിൽ (എണ്ണ ഇല്ലാതെ) ചുട്ടെടുക്കുക.\n  --- മുട്ടക്കറി ---\n  3. മുട്ട വേവിച്ച് തൊലി കളഞ്ഞ് 2-3 വട്ടം കോറിയിടുക.\n  4. ഒരു ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കി ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി വഴറ്റുക.\n  5. മസാലകൾ + തക്കാളി ഇട്ട് ഇളക്കി ഒരു ബോൾ ഉണ്ടാക്കുക.\n  6. മുട്ട + തേങ്ങ പാൽ ഇട്ട് 5 മിനിറ്റ് കൂടി വേവിക്കുക.\n  --- സലാഡ് ---\n  7. കൂക്കംബർ + ഉള്ളി + ലിമ്മൺ + ഉപ്പ് ചേർക്കുക.\n\n  --- Wheat Pathiri ---\n  1. Roll out wheat dough thin, cook on hot tawa (no oil).\n  --- Egg Curry ---\n  2. Boil eggs, peel and score them 2-3 times.\n  3. Heat 1 tbsp oil, sauté onion + ginger-garlic paste.\n  4. Add spices + tomatoes, stir into a thick base.\n  5. Add eggs + coconut milk (2 tbsp), cook 5 more minutes.\n  --- Salad ---\n  6. Mix cucumber + onion + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 3 മുട്ട + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 2 മുട്ട + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 3 മുട്ട + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* മുട്ടക്കറിയിൽ തേങ്ങ പാൽ കുറച്ചേ ഉപയോഗിക്കൂ — കലോറി നിയന്ത്രണം.\n    _Use only 2 tbsp coconut milk in egg curry — keeps calories in check._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 5,
+      "suhoor": {
+        "dish": "ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ദഹി",
+        "prepTime": "5 മിനിറ്റ്",
+        "tip": "ഒരു ചൂടും ഇല്ലാതെ ഉണ്ടാക്കാം — ഏറ്റവും ഹൽകാ സുഹൂർ",
+        "ingredients": [
+          "ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്",
+          "ചൂടുവെള്ളം — 1½ കപ്പ്",
+          "ഫ്ലാക്സ്സീഡ് (പൊടിച്ചത്) — 1 ടേബ്ൾ സ്പൂൺ",
+          "ദഹി — Ajmi: 1 ഗ്ലാസ്",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കുക.",
+          "2. ഫ്ലാക്സ്സീഡ് പൊടി മേലെ തൂവുക.",
+          "3. ഗ്രീൻ ടി / ദഹി ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 400,
+          "ajmi": 310,
+          "abu": 385
+        },
+        "healthTip": "ഫ്ലാക്സ്സീഡ് ഒമേഗ-3 + ഫൈബർ — ദൈനം 1 ടേബ്ൾ സ്പൂൺ ഹൃദ്രോഗ സംരക്ഷണം.",
+        "dish_en": "Oats + Flaxseed + Curd",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Sprinkle ground flaxseed on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Flaxseed — 1 tbsp daily gives you Omega-3 + fibre + heart protection."
+      },
+      "iftar": {
+        "dish": "അപ്പം + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "--- അപ്പം ---",
+          "അരി (കുതിർത്ത്) — 2 കപ്പ്",
+          "ഉഴുന്ന് (കുതിർത്ത്) — ¼ കപ്പ്",
+          "ഉപ്പ് — 1 ടീ സ്പൂൺ",
+          "വെള്ളം — ആവശ്യത്തിന്",
+          "--- ചിക്കൻ കറി (ഡ്രൈ) ---",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി — 2",
+          "ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ",
+          "കറി ഇല — ഒരു ചെറിയ കൊമ്പ്",
+          "ഗരം മസാല — 1 ടീ സ്പൂൺ",
+          "ലിമ്മൺ — 1",
+          "എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ"
+        ],
+        "method": [
+          "--- അപ്പം ---",
+          "1. അരി + ഉഴുന്ന് (6 മണിക്കൂർ കുതിർത്ത്) + ഉപ്പ് + വെള്ളം ചേർത്ത് മിക്സ് ചെയ്യുക.",
+          "2. 8 മണിക്കൂർ ഫർമൻ്റ് ആകാൻ വിടുക (രാത്രി ഉണ്ടാക്കിയ മാവ്).",
+          "3. ചൂടുള്ള അപ്പ ചെമ്പിൽ തേക്കിട്ട് അടച്ചു വേവിക്കുക.",
+          "--- ചിക്കൻ ഡ്രൈ ---",
+          "4. ഒരു ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കി ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കറി ഇല വഴറ്റുക.",
+          "5. ചിക്കൻ + ഗരം മസാല + ഉപ്പ് ഇട്ട് ഇളക്കി 20-25 മിനിറ്റ് വേവിക്കുക.",
+          "6. ലിമ്മൺ നീര് ഇറ്റിക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 അപ്പം + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ അപ്പം + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 അപ്പം + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 650,
+          "ajmi": 460,
+          "abu": 615
+        },
+        "healthTip": "അപ്പം ഫർമൻ്റഡ് ഭക്ഷണം — ദഹനം ഉത്തേജിപ്പിക്കുന്നു.",
+        "dish_en": "Appam + Dry Chicken Curry + Fresh Salad",
+        "method_en": [
+          "--- Appam (use batter from last night) ---",
+          "1. Pour batter into hot appam pan, swirl to coat sides, cover and cook.",
+          "--- Dry Chicken ---",
+          "2. Heat 1 tbsp oil, sauté onion + ginger-garlic + curry leaves.",
+          "3. Add chicken + garam masala + salt, stir well.",
+          "4. Cook 20-25 minutes on low heat till dry.",
+          "5. Squeeze lemon juice at the end."
+        ],
+        "healthTip_en": "Appam is fermented — it aids digestion and is lighter on the stomach."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 5 — Day 5*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ദഹി*\n    _Oats + Flaxseed + Curd_\n⏱️ 5 മിനിറ്റ്\n💭 _ഒരു ചൂടും ഇല്ലാതെ ഉണ്ടാക്കാം — ഏറ്റവും ഹൽകാ സുഹൂർ_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്\n  • ചൂടുവെള്ളം — 1½ കപ്പ്\n  • ഫ്ലാക്സ്സീഡ് (പൊടിച്ചത്) — 1 ടേബ്ൾ സ്പൂൺ\n  • ദഹി — Ajmi: 1 ഗ്ലാസ്\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കുക.\n  2. ഫ്ലാക്സ്സീഡ് പൊടി മേലെ തൂവുക.\n  3. ഗ്രീൻ ടി / ദഹി ഒപ്പം.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Sprinkle ground flaxseed on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഫ്ലാക്സ്സീഡ് ഒമേഗ-3 + ഫൈബർ — ദൈനം 1 ടേബ്ൾ സ്പൂൺ ഹൃദ്രോഗ സംരക്ഷണം.\n    _Flaxseed — 1 tbsp daily gives you Omega-3 + fibre + heart protection._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *അപ്പം + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Appam + Dry Chicken Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • --- അപ്പം ---\n  • അരി (കുതിർത്ത്) — 2 കപ്പ്\n  • ഉഴുന്ന് (കുതിർത്ത്) — ¼ കപ്പ്\n  • ഉപ്പ് — 1 ടീ സ്പൂൺ\n  • വെള്ളം — ആവശ്യത്തിന്\n  • --- ചിക്കൻ കറി (ഡ്രൈ) ---\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി — 2\n  • ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ\n  • കറി ഇല — ഒരു ചെറിയ കൊമ്പ്\n  • ഗരം മസാല — 1 ടീ സ്പൂൺ\n  • ലിമ്മൺ — 1\n  • എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- അപ്പം ---\n  1. അരി + ഉഴുന്ന് (6 മണിക്കൂർ കുതിർത്ത്) + ഉപ്പ് + വെള്ളം ചേർത്ത് മിക്സ് ചെയ്യുക.\n  2. 8 മണിക്കൂർ ഫർമൻ്റ് ആകാൻ വിടുക (രാത്രി ഉണ്ടാക്കിയ മാവ്).\n  3. ചൂടുള്ള അപ്പ ചെമ്പിൽ തേക്കിട്ട് അടച്ചു വേവിക്കുക.\n  --- ചിക്കൻ ഡ്രൈ ---\n  4. ഒരു ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കി ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കറി ഇല വഴറ്റുക.\n  5. ചിക്കൻ + ഗരം മസാല + ഉപ്പ് ഇട്ട് ഇളക്കി 20-25 മിനിറ്റ് വേവിക്കുക.\n  6. ലിമ്മൺ നീര് ഇറ്റിക്കുക.\n\n  --- Appam (use batter from last night) ---\n  1. Pour batter into hot appam pan, swirl to coat sides, cover and cook.\n  --- Dry Chicken ---\n  2. Heat 1 tbsp oil, sauté onion + ginger-garlic + curry leaves.\n  3. Add chicken + garam masala + salt, stir well.\n  4. Cook 20-25 minutes on low heat till dry.\n  5. Squeeze lemon juice at the end.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 അപ്പം + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ അപ്പം + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 അപ്പം + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* അപ്പം ഫർമൻ്റഡ് ഭക്ഷണം — ദഹനം ഉത്തേജിപ്പിക്കുന്നു.\n    _Appam is fermented — it aids digestion and is lighter on the stomach._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 6,
+      "suhoor": {
+        "dish": "ഓട്സ് + മഞ്ഞൾ + കറുവ + ബദാം",
+        "prepTime": "7 മിനിറ്റ്",
+        "tip": "ആന്റി-ഇൻഫ്ലമേഷൻ സുഹൂർ",
+        "ingredients": [
+          "ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്",
+          "ചൂടുവെള്ളം — 1½ കപ്പ്",
+          "മഞ്ഞൾ — ¼ ടീ സ്പൂൺ",
+          "കറുവ — ¼ ടീ സ്പൂൺ",
+          "ബദാം — 5",
+          "Ajmi-ക്ക്: ഹൽദ ദൂദ് (മഞ്ഞൾ + പാൽ)",
+          "Ammar-ന്: ഗ്രീൻ ടി + ½ ടീ സ്പൂൺ മഞ്ഞൾ (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: ഹൽദ ദൂദ് (പാൽ + ¼ ടീ.സ്പൂ. മഞ്ഞൾ)"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കുക.",
+          "2. മഞ്ഞൾ + കറുവ + ബദാം ഉള്ളിൽ ചേർക്കുക.",
+          "3. Ajmi-ക്ക്: ചൂടുള്ള പാൽ + ¼ ടീ സ്പൂൺ മഞ്ഞൾ ചേർത്ത് ഹൽദ ദൂദ് ഉണ്ടാക്കുക.",
+          "4. Ammar + Abu: ഗ്രീൻ ടി + ½ ടീ സ്പൂൺ മഞ്ഞൾ ചേർക്കുക."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + ഹൽദ ദൂദ്",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 420,
+          "ajmi": 340,
+          "abu": 405
+        },
+        "healthTip": "മഞ്ഞൾ + കറുമ്മുളക് ഒരുമിച്ച് — ആന്റി-ഇൻഫ്ലമേഷൻ ഫലം 20 മടങ്ങ് കൂടും.",
+        "dish_en": "Oats + Turmeric + Cinnamon + Almonds",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add turmeric + cinnamon + almonds.",
+          "3. Ajmi: make haldi doodh — warm milk + ¼ tsp turmeric.",
+          "4. Ammar: green tea / lemon tea + ½ tsp turmeric. Abu: warm milk + turmeric."
+        ],
+        "healthTip_en": "Turmeric + black pepper together — anti-inflammatory effect is 20x stronger."
+      },
+      "iftar": {
+        "dish": "ഓട്സ് ദോശ + കടലക്കറി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "--- ഓട്സ് ദോശ ---",
+          "ഓട്സ് — 1 കപ്പ്",
+          "ഉഴുന്ന് (കുതിർത്ത്) — ½ കപ്പ്",
+          "ഉപ്പ്, ഹരിത മുളക്",
+          "--- കടലക്കറി ---",
+          "കടല (വേവിച്ചത്) — 2 കപ്പ്",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി",
+          "മസാലകൾ, തേങ്ങ പാൽ (2 ടേ.സ്പൂ.)",
+          "ഫ്രഷ് ഗ്രീൻ ചട്ണി"
+        ],
+        "method": [
+          "--- ഓട്സ് ദോശ ---",
+          "1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + ഹരിത മുളക് + വെള്ളം ചേർത്ത് മിക്സ് ചെയ്യുക.",
+          "2. ചൂടുള്ള തവയിൽ ഒഴിച്ച് (ചെറിയ എണ്ണ) ദോശ ചുട്ടെടുക്കുക.",
+          "--- കടലക്കറി ---",
+          "3. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + മസാലകൾ + തക്കാളി ഇട്ട് വഴറ്റുക.",
+          "4. കടല + തേങ്ങ പാൽ ഇട്ട് 10 മിനിറ്റ് കൂടി വേവിക്കുക.",
+          "--- ഗ്രീൻ ചട്ണി ---",
+          "5. ഹരിത ധനിയ + തേങ്ങ + ഹരിത മുളക് + ഉപ്പ് + ലിമ്മൺ ഒരുമിച്ച് അടിക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി",
+          "ajmi": "2 ദോശ + ¾ കപ്പ് കടലക്കറി + ചട്ണി",
+          "abu": "2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 600,
+          "ajmi": 430,
+          "abu": 570
+        },
+        "healthTip": "ആഴ്ചയിൽ ഒരിക്കലെങ്കിലും കടലക്കറി — ഉയർന്ന ഫൈബർ + പ്രോട്ടീൻ.",
+        "dish_en": "Oats Dosa + Kadala Curry",
+        "method_en": [
+          "--- Oats Dosa ---",
+          "1. Mix oats + soaked urad dal + salt + green chilli + water.",
+          "2. Pour on hot tawa with little oil, cook till golden.",
+          "--- Kadala Curry ---",
+          "3. Sauté onion + ginger-garlic + spices + tomatoes.",
+          "4. Add cooked chickpeas + 2 tbsp coconut milk, cook 10 mins.",
+          "--- Green Chutney ---",
+          "5. Blend coriander + coconut + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Include kadala curry at least once a week — high fibre + protein combo."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 6 — Day 6*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + മഞ്ഞൾ + കറുവ + ബദാം*\n    _Oats + Turmeric + Cinnamon + Almonds_\n⏱️ 7 മിനിറ്റ്\n💭 _ആന്റി-ഇൻഫ്ലമേഷൻ സുഹൂർ_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്\n  • ചൂടുവെള്ളം — 1½ കപ്പ്\n  • മഞ്ഞൾ — ¼ ടീ സ്പൂൺ\n  • കറുവ — ¼ ടീ സ്പൂൺ\n  • ബദാം — 5\n  • Ajmi-ക്ക്: ഹൽദ ദൂദ് (മഞ്ഞൾ + പാൽ)\n  • Ammar-ന്: ഗ്രീൻ ടി + ½ ടീ സ്പൂൺ മഞ്ഞൾ (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: ഹൽദ ദൂദ് (പാൽ + ¼ ടീ.സ്പൂ. മഞ്ഞൾ)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കുക.\n  2. മഞ്ഞൾ + കറുവ + ബദാം ഉള്ളിൽ ചേർക്കുക.\n  3. Ajmi-ക്ക്: ചൂടുള്ള പാൽ + ¼ ടീ സ്പൂൺ മഞ്ഞൾ ചേർത്ത് ഹൽദ ദൂദ് ഉണ്ടാക്കുക.\n  4. Ammar + Abu: ഗ്രീൻ ടി + ½ ടീ സ്പൂൺ മഞ്ഞൾ ചേർക്കുക.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add turmeric + cinnamon + almonds.\n  3. Ajmi: make haldi doodh — warm milk + ¼ tsp turmeric.\n  4. Ammar: green tea / lemon tea + ½ tsp turmeric. Abu: warm milk + turmeric.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + ഹൽദ ദൂദ്\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* മഞ്ഞൾ + കറുമ്മുളക് ഒരുമിച്ച് — ആന്റി-ഇൻഫ്ലമേഷൻ ഫലം 20 മടങ്ങ് കൂടും.\n    _Turmeric + black pepper together — anti-inflammatory effect is 20x stronger._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഓട്സ് ദോശ + കടലക്കറി*\n    _Oats Dosa + Kadala Curry_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • --- ഓട്സ് ദോശ ---\n  • ഓട്സ് — 1 കപ്പ്\n  • ഉഴുന്ന് (കുതിർത്ത്) — ½ കപ്പ്\n  • ഉപ്പ്, ഹരിത മുളക്\n  • --- കടലക്കറി ---\n  • കടല (വേവിച്ചത്) — 2 കപ്പ്\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി\n  • മസാലകൾ, തേങ്ങ പാൽ (2 ടേ.സ്പൂ.)\n  • ഫ്രഷ് ഗ്രീൻ ചട്ണി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- ഓട്സ് ദോശ ---\n  1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + ഹരിത മുളക് + വെള്ളം ചേർത്ത് മിക്സ് ചെയ്യുക.\n  2. ചൂടുള്ള തവയിൽ ഒഴിച്ച് (ചെറിയ എണ്ണ) ദോശ ചുട്ടെടുക്കുക.\n  --- കടലക്കറി ---\n  3. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + മസാലകൾ + തക്കാളി ഇട്ട് വഴറ്റുക.\n  4. കടല + തേങ്ങ പാൽ ഇട്ട് 10 മിനിറ്റ് കൂടി വേവിക്കുക.\n  --- ഗ്രീൻ ചട്ണി ---\n  5. ഹരിത ധനിയ + തേങ്ങ + ഹരിത മുളക് + ഉപ്പ് + ലിമ്മൺ ഒരുമിച്ച് അടിക്കുക.\n\n  --- Oats Dosa ---\n  1. Mix oats + soaked urad dal + salt + green chilli + water.\n  2. Pour on hot tawa with little oil, cook till golden.\n  --- Kadala Curry ---\n  3. Sauté onion + ginger-garlic + spices + tomatoes.\n  4. Add cooked chickpeas + 2 tbsp coconut milk, cook 10 mins.\n  --- Green Chutney ---\n  5. Blend coriander + coconut + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി\n  • Ajmi: 2 ദോശ + ¾ കപ്പ് കടലക്കറി + ചട്ണി\n  • Abu: 2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ആഴ്ചയിൽ ഒരിക്കലെങ്കിലും കടലക്കറി — ഉയർന്ന ഫൈബർ + പ്രോട്ടീൻ.\n    _Include kadala curry at least once a week — high fibre + protein combo._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 7,
+      "isWeeklySpecial": true,
+      "theme": "🌟 ആദ്യ ആഴ്ച പൂർത്തി — ബീഫ് സ്പെഷ്യൽ!",
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ബദാം + ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "tip": "മാവ് ഇന്നലെ കുഴച്ചുവച്ചാൽ രാവിലെ 5 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ് — 2 കപ്പ്",
+          "ഉപ്പ് — ½ ടീ സ്പൂൺ",
+          "ബദാം — 5",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: ദഹി"
+        ],
+        "method": [
+          "1. മൃദുവായ ഗോതമ്പ് മാവ് ചെറിയ ഉരുളകൾ ആക്കി കനം കുറഞ്ഞ് ഇടുക.",
+          "2. ചൂടുള്ള തവ (എണ്ണ ഇല്ലാതെ) — ഇരുവശവും ചുട്ടെടുക്കുക.",
+          "3. ബദാം + ഗ്രീൻ ടി / ദഹി ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "2 ചെറിയ പത്തിരി + 5 ബദാം + ദഹി",
+          "abu": "2 പത്തിരി + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 450,
+          "ajmi": 330,
+          "abu": 430
+        },
+        "healthTip": "7 ദിവസം ആരോഗ്യകരം! Alhamdulillah — ഒരാഴ്ചയുടെ ശ്രദ്ധ ഒരു ശക്തമായ തുടക്കം.",
+        "dish_en": "Wheat Pathiri + Almonds + Green Tea",
+        "method_en": [
+          "1. Roll out wheat dough thin (from last night), cook on hot tawa (no oil).",
+          "2. Serve with almonds + green tea / lemon tea (Ammar), milk (Abu & Ajmi)."
+        ],
+        "healthTip_en": "7 days done! Alhamdulillah — one week of mindful eating is a powerful start."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ബീഫ് ഇറച്ചിക്കറി (ഹൽകാ) + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "--- ഗോതമ്പ് പത്തിരി ---",
+          "ഗോതമ്പ് മാവ് — 2 കപ്പ്",
+          "ഉപ്പ്, വെള്ളം",
+          "--- ബീഫ് ഇറച്ചിക്കറി ---",
+          "ബീഫ് (മെലിഞ്ഞ കഷ്ണം) — Ammar: 180g, Ajmi: 100g, Abu: 160g",
+          "ഉള്ളി — 3 (അരിഞ്ഞത്)",
+          "തക്കാളി — 2",
+          "ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ",
+          "മഞ്ഞൾ — ½ ടീ സ്പൂൺ",
+          "ഗരം മസാല — 1 ടീ സ്പൂൺ",
+          "കറുമ്മുളക് — ½ ടീ സ്പൂൺ",
+          "ഇഞ്ചി — 1 ഇഞ്ച് കഷ്ണം",
+          "കറി ഇല",
+          "എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ",
+          "കൂക്കംബർ, ഉള്ളി, ടൊമ. (സലാഡ്)"
+        ],
+        "method": [
+          "--- ബീഫ് കറി ---",
+          "1. ബീഫ് + മഞ്ഞൾ + ഗരം മസാല + ഉപ്പ് ചേർത്ത് 20 മിനിറ്റ് മാരിനേറ്റ് ചെയ്യുക.",
+          "2. ഒരു ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കി ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഇഞ്ചി + കറി ഇല വഴറ്റുക.",
+          "3. ബീഫ് + തക്കാളി ഇട്ട് ഇളക്കുക.",
+          "4. 30-40 മിനിറ്റ് (അടുപ്പ് ചെറുതാക്കി) വേവിക്കുക.",
+          "--- പത്തിരി ---",
+          "5. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവയിൽ ചുട്ടെടുക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 180g ബീഫ് + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 100g ബീഫ് + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 160g ബീഫ് + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 670,
+          "ajmi": 475,
+          "abu": 630
+        },
+        "healthTip": "ഒരാഴ്ച പൂർത്തി! 7 ദിവസം ഭക്ഷ്യ ശ്രദ്ധ — ഒരു ശക്തമായ ആദ്യ ചുവട്.",
+        "dish_en": "Wheat Pathiri + Beef Curry (Light) + Fresh Salad",
+        "method_en": [
+          "--- Beef Curry ---",
+          "1. Marinate beef with turmeric + garam masala + salt for 20 mins.",
+          "2. Heat 1 tbsp oil, sauté onion + ginger-garlic + ginger + curry leaves.",
+          "3. Add beef + tomatoes, stir well.",
+          "4. Cook on low heat 30-40 minutes till tender.",
+          "--- Wheat Pathiri ---",
+          "5. Roll out wheat dough, cook on hot tawa (no oil).",
+          "--- Salad ---",
+          "6. Toss cucumber + onion + tomato + lemon juice + salt."
+        ],
+        "healthTip_en": "Week 1 complete! Celebrate this achievement — mindful eating is becoming a habit."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 7 — Day 7*\n✨ 🌟 ആദ്യ ആഴ്ച പൂർത്തി — ബീഫ് സ്പെഷ്യൽ!\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + ബദാം + ഗ്രീൻ ടി*\n    _Wheat Pathiri + Almonds + Green Tea_\n⏱️ 12 മിനിറ്റ്\n💭 _മാവ് ഇന്നലെ കുഴച്ചുവച്ചാൽ രാവിലെ 5 മിനിറ്റ്_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ് — 2 കപ്പ്\n  • ഉപ്പ് — ½ ടീ സ്പൂൺ\n  • ബദാം — 5\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. മൃദുവായ ഗോതമ്പ് മാവ് ചെറിയ ഉരുളകൾ ആക്കി കനം കുറഞ്ഞ് ഇടുക.\n  2. ചൂടുള്ള തവ (എണ്ണ ഇല്ലാതെ) — ഇരുവശവും ചുട്ടെടുക്കുക.\n  3. ബദാം + ഗ്രീൻ ടി / ദഹി ഒപ്പം.\n\n  1. Roll out wheat dough thin (from last night), cook on hot tawa (no oil).\n  2. Serve with almonds + green tea / lemon tea (Ammar), milk (Abu & Ajmi).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 2 ചെറിയ പത്തിരി + 5 ബദാം + ദഹി\n  • Abu: 2 പത്തിരി + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 7 ദിവസം ആരോഗ്യകരം! Alhamdulillah — ഒരാഴ്ചയുടെ ശ്രദ്ധ ഒരു ശക്തമായ തുടക്കം.\n    _7 days done! Alhamdulillah — one week of mindful eating is a powerful start._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ബീഫ് ഇറച്ചിക്കറി (ഹൽകാ) + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Beef Curry (Light) + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • --- ഗോതമ്പ് പത്തിരി ---\n  • ഗോതമ്പ് മാവ് — 2 കപ്പ്\n  • ഉപ്പ്, വെള്ളം\n  • --- ബീഫ് ഇറച്ചിക്കറി ---\n  • ബീഫ് (മെലിഞ്ഞ കഷ്ണം) — Ammar: 180g, Ajmi: 100g, Abu: 160g\n  • ഉള്ളി — 3 (അരിഞ്ഞത്)\n  • തക്കാളി — 2\n  • ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ\n  • മഞ്ഞൾ — ½ ടീ സ്പൂൺ\n  • ഗരം മസാല — 1 ടീ സ്പൂൺ\n  • കറുമ്മുളക് — ½ ടീ സ്പൂൺ\n  • ഇഞ്ചി — 1 ഇഞ്ച് കഷ്ണം\n  • കറി ഇല\n  • എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ\n  • കൂക്കംബർ, ഉള്ളി, ടൊമ. (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- ബീഫ് കറി ---\n  1. ബീഫ് + മഞ്ഞൾ + ഗരം മസാല + ഉപ്പ് ചേർത്ത് 20 മിനിറ്റ് മാരിനേറ്റ് ചെയ്യുക.\n  2. ഒരു ടേബ്ൾ സ്പൂൺ എണ്ണ ചൂടാക്കി ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഇഞ്ചി + കറി ഇല വഴറ്റുക.\n  3. ബീഫ് + തക്കാളി ഇട്ട് ഇളക്കുക.\n  4. 30-40 മിനിറ്റ് (അടുപ്പ് ചെറുതാക്കി) വേവിക്കുക.\n  --- പത്തിരി ---\n  5. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവയിൽ ചുട്ടെടുക്കുക.\n\n  --- Beef Curry ---\n  1. Marinate beef with turmeric + garam masala + salt for 20 mins.\n  2. Heat 1 tbsp oil, sauté onion + ginger-garlic + ginger + curry leaves.\n  3. Add beef + tomatoes, stir well.\n  4. Cook on low heat 30-40 minutes till tender.\n  --- Wheat Pathiri ---\n  5. Roll out wheat dough, cook on hot tawa (no oil).\n  --- Salad ---\n  6. Toss cucumber + onion + tomato + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 180g ബീഫ് + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 100g ബീഫ് + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 160g ബീഫ് + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒരാഴ്ച പൂർത്തി! 7 ദിവസം ഭക്ഷ്യ ശ്രദ്ധ — ഒരു ശക്തമായ ആദ്യ ചുവട്.\n    _Week 1 complete! Celebrate this achievement — mindful eating is becoming a habit._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 8,
+      "suhoor": {
+        "dish": "ഓട്സ് + ബനാന + ഗ്രൗണ്ട്നട്ട് ബട്ടർ",
+        "prepTime": "5 മിനിറ്റ്",
+        "tip": "പാചകം ഇല്ലാതെ — ഏറ്റവും ഹൽകാ",
+        "ingredients": [
+          "ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്",
+          "ചൂടുവെള്ളം — 1½ കപ്പ്",
+          "ബനാന — 1",
+          "ഗ്രൗണ്ട്നട്ട് ബട്ടർ — 1 ടേബ്ൾ സ്പൂൺ",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: ദഹി"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കുക.",
+          "2. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + ബനാന ഒപ്പം.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ബട്ടർ + ½ ബനാന",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ബട്ടർ + ½ ബനാന + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ബട്ടർ + ½ ബനാന"
+        },
+        "calories": {
+          "ammar": 445,
+          "ajmi": 335,
+          "abu": 428
+        },
+        "healthTip": "ഗ്രൗണ്ട്നട്ട് ബട്ടർ ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ഭക്ഷ്യ ആഗ്രഹം 30% കുറക്കും.",
+        "dish_en": "Oats + Banana + Peanut Butter",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add peanut butter + sliced banana on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Peanut butter — healthy fats that reduce hunger cravings by up to 30%."
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഇഡ്ഡലി — (ഇഡ്ഡലി മാവ് ഉണ്ട് ആണ് ഉള്ളൂ)",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി — 2",
+          "തക്കാളി — 2",
+          "ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ",
+          "കൊക്കം — 2 കഷ്ണം",
+          "ചുവന്ന മുളക് — 1 ടീ സ്പൂൺ",
+          "ഗരം മസാല — ½ ടീ സ്പൂൺ",
+          "എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ",
+          "ഫ്രഷ് ഗ്രീൻ-ടൊമ.-ഉള്ളി സലാഡ്"
+        ],
+        "method": [
+          "--- ഇഡ്ഡലി ---",
+          "1. ഇഡ്ഡലി മാവ് അച്ചിൽ ഒഴിച്ച് 10-12 മിനിറ്റ് ആവി കൊള്ളിക്കുക.",
+          "--- ചിക്കൻ കറി ---",
+          "2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി 1 ടേ.സ്പൂ. എണ്ണയിൽ വഴറ്റുക.",
+          "3. ചുവന്ന മുളക് + ഗരം മസാല + തക്കാളി + കൊക്കം ഇട്ട് ഇളക്കുക.",
+          "4. ചിക്കൻ ഇട്ട് 20 മിനിറ്റ് വേവിക്കുക.",
+          "5. ഒടുവിൽ ഫ്രഷ് ധനിയ ഇട്ടിറക്കുക.",
+          "--- സലാഡ് ---",
+          "6. ഫ്രഷ് ഗ്രീൻ + ടൊമ. + ഉള്ളി + ലിമ്മൺ + ഉപ്പ് ചേർക്കുക."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ഇഡ്ഡലി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "3 ഇഡ്ഡലി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 640,
+          "ajmi": 455,
+          "abu": 605
+        },
+        "healthTip": "ഇഡ്ഡലി ഫർമൻ്റഡ് — ദഹനം ഉത്തേജിപ്പിക്കുന്നു, ലഘുഭക്ഷണം.",
+        "dish_en": "Idli + Chicken Curry + Fresh Salad",
+        "method_en": [
+          "--- Idli ---",
+          "1. Pour idli batter into mould, steam 10-12 minutes.",
+          "--- Chicken Curry ---",
+          "2. Heat 1 tbsp oil, sauté onion + ginger-garlic paste.",
+          "3. Add red chilli + garam masala + tomatoes + kudampuli, stir.",
+          "4. Add chicken, cook 20 minutes till done.",
+          "5. Garnish with fresh coriander.",
+          "--- Salad ---",
+          "6. Toss fresh greens + tomato + onion + lemon juice + salt."
+        ],
+        "healthTip_en": "Idli is fermented — aids digestion and is light on the stomach after fasting."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 8 — Day 8*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ബനാന + ഗ്രൗണ്ട്നട്ട് ബട്ടർ*\n    _Oats + Banana + Peanut Butter_\n⏱️ 5 മിനിറ്റ്\n💭 _പാചകം ഇല്ലാതെ — ഏറ്റവും ഹൽകാ_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ് — Ammar: 1 കപ്പ്, Ajmi: ¾ കപ്പ്, Abu: 1 കപ്പ്\n  • ചൂടുവെള്ളം — 1½ കപ്പ്\n  • ബനാന — 1\n  • ഗ്രൗണ്ട്നട്ട് ബട്ടർ — 1 ടേബ്ൾ സ്പൂൺ\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം ചേർത്ത് 3 മിനിറ്റ് ഇളക്കുക.\n  2. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + ബനാന ഒപ്പം.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add peanut butter + sliced banana on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ബട്ടർ + ½ ബനാന\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ബട്ടർ + ½ ബനാന + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 1 ടേ.സ്പൂ. ബട്ടർ + ½ ബനാന\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഗ്രൗണ്ട്നട്ട് ബട്ടർ ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ഭക്ഷ്യ ആഗ്രഹം 30% കുറക്കും.\n    _Peanut butter — healthy fats that reduce hunger cravings by up to 30%._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Idli + Chicken Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഇഡ്ഡലി — (ഇഡ്ഡലി മാവ് ഉണ്ട് ആണ് ഉള്ളൂ)\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി — 2\n  • തക്കാളി — 2\n  • ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേബ്ൾ സ്പൂൺ\n  • കൊക്കം — 2 കഷ്ണം\n  • ചുവന്ന മുളക് — 1 ടീ സ്പൂൺ\n  • ഗരം മസാല — ½ ടീ സ്പൂൺ\n  • എണ്ണ — 1 ടേബ്ൾ സ്പൂൺ\n  • ഫ്രഷ് ഗ്രീൻ-ടൊമ.-ഉള്ളി സലാഡ്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  --- ഇഡ്ഡലി ---\n  1. ഇഡ്ഡലി മാവ് അച്ചിൽ ഒഴിച്ച് 10-12 മിനിറ്റ് ആവി കൊള്ളിക്കുക.\n  --- ചിക്കൻ കറി ---\n  2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി 1 ടേ.സ്പൂ. എണ്ണയിൽ വഴറ്റുക.\n  3. ചുവന്ന മുളക് + ഗരം മസാല + തക്കാളി + കൊക്കം ഇട്ട് ഇളക്കുക.\n  4. ചിക്കൻ ഇട്ട് 20 മിനിറ്റ് വേവിക്കുക.\n  5. ഒടുവിൽ ഫ്രഷ് ധനിയ ഇട്ടിറക്കുക.\n  --- സലാഡ് ---\n  6. ഫ്രഷ് ഗ്രീൻ + ടൊമ. + ഉള്ളി + ലിമ്മൺ + ഉപ്പ് ചേർക്കുക.\n\n  --- Idli ---\n  1. Pour idli batter into mould, steam 10-12 minutes.\n  --- Chicken Curry ---\n  2. Heat 1 tbsp oil, sauté onion + ginger-garlic paste.\n  3. Add red chilli + garam masala + tomatoes + kudampuli, stir.\n  4. Add chicken, cook 20 minutes till done.\n  5. Garnish with fresh coriander.\n  --- Salad ---\n  6. Toss fresh greens + tomato + onion + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ഇഡ്ഡലി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 3 ഇഡ്ഡലി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഇഡ്ഡലി ഫർമൻ്റഡ് — ദഹനം ഉത്തേജിപ്പിക്കുന്നു, ലഘുഭക്ഷണം.\n    _Idli is fermented — aids digestion and is light on the stomach after fasting._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 9,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + മുട്ട ഓംലറ്റ്",
+        "prepTime": "12 മിനിറ്റ്",
+        "tip": "മാവ് മുൻദിവസം കുഴച്ചുവക്കുക",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2",
+          "ഉള്ളി, ഹരിത മുളക്, ഉപ്പ്, കറുമ്മുളക്",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: ദഹി"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ചുടുക. 5 മിനിറ്റ്.",
+          "2. മുട്ട + ഉള്ളി + ഹരിത മുളക് + ഉപ്പ് + കറുമ്മുളക് ചേർത്ത് ഓംലറ്റ് ഉണ്ടാക്കുക. 5 മിനിറ്റ്.",
+          "3. ഗ്രീൻ ടി / ദഹി ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "1 പത്തിരി + 1 മുട്ട + ദഹി",
+          "abu": "2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 455,
+          "ajmi": 310,
+          "abu": 435
+        },
+        "healthTip": "ഇഞ്ചി + ലൈം ചേർന്ന ഭക്ഷണം ദഹനം ത്വരിതം — കൊഴുപ്പ് കത്തിക്കൽ.",
+        "dish_en": "Wheat Pathiri + Egg Omelette",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa. 5 mins.",
+          "2. Beat eggs + onion + green chilli + salt + pepper, make omelette. 5 mins.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Ginger + lemon in food speeds up digestion and boosts fat burning."
+      },
+      "iftar": {
+        "dish": "അപ്പം + മീൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "--- അപ്പം (ഇന്നലെ മാവ് ഉണ്ടാക്കിയത്) ---",
+          "--- മീൻ കറി ---",
+          "ഇഷ്ടമുള്ള മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി — 2",
+          "തക്കാളി — 2",
+          "ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേ.സ്പൂ.",
+          "മഞ്ഞൾ, ചുവന്ന മുളക്, ഗരം മസാല",
+          "കുടംപുളി — 2 കഷ്ണം",
+          "കറി ഇല",
+          "ഫ്ലാക്സ്സീഡ് — 1 ടേ.സ്പൂ. (ഒടുവിൽ ചേർക്കുക)",
+          "ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)"
+        ],
+        "method": [
+          "1. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കറി ഇല 1 ടേ.സ്പൂ. എണ്ണയിൽ വഴറ്റുക.",
+          "2. മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി ഇട്ട് ഇളക്കുക.",
+          "3. കുടംപുളി + വെള്ളം ഇട്ട് തിളപ്പിക്കുക.",
+          "4. മീൻ ഇട്ട് 8-10 മിനിറ്റ് വേവിക്കുക.",
+          "5. ഒടുവിൽ ഫ്ലാക്സ്സീഡ് ചേർക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 അപ്പം + 200g മീൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ അപ്പം + 120g മീൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 അപ്പം + 180g മീൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 645,
+          "ajmi": 460,
+          "abu": 608
+        },
+        "healthTip": "ഒമേഗ-3 + ഫ്ലാക്സ്സീഡ് ഒരുമിച്ച് — ഉദ്ദേ ദഹനം + ഹൃദ്രോഗ സംരക്ഷണം.",
+        "dish_en": "Appam + Fish Curry + Fresh Salad",
+        "method_en": [
+          "--- Appam ---",
+          "1. Pour batter (from last night) into hot appam pan, swirl, cover and cook.",
+          "--- Fish Curry ---",
+          "2. Heat oil, sauté onion + ginger-garlic + curry leaves.",
+          "3. Add turmeric + red chilli + tomatoes + kudampuli, stir and cook.",
+          "4. Add fish + water, cook 10 minutes.",
+          "5. Stir in ground flaxseed at the end."
+        ],
+        "healthTip_en": "Omega-3 from fish + flaxseed together — boosts digestion and heart health."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 9 — Day 9*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + മുട്ട ഓംലറ്റ്*\n    _Wheat Pathiri + Egg Omelette_\n⏱️ 12 മിനിറ്റ്\n💭 _മാവ് മുൻദിവസം കുഴച്ചുവക്കുക_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n  • ഉള്ളി, ഹരിത മുളക്, ഉപ്പ്, കറുമ്മുളക്\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ചുടുക. 5 മിനിറ്റ്.\n  2. മുട്ട + ഉള്ളി + ഹരിത മുളക് + ഉപ്പ് + കറുമ്മുളക് ചേർത്ത് ഓംലറ്റ് ഉണ്ടാക്കുക. 5 മിനിറ്റ്.\n  3. ഗ്രീൻ ടി / ദഹി ഒപ്പം.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa. 5 mins.\n  2. Beat eggs + onion + green chilli + salt + pepper, make omelette. 5 mins.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 1 പത്തിരി + 1 മുട്ട + ദഹി\n  • Abu: 2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഇഞ്ചി + ലൈം ചേർന്ന ഭക്ഷണം ദഹനം ത്വരിതം — കൊഴുപ്പ് കത്തിക്കൽ.\n    _Ginger + lemon in food speeds up digestion and boosts fat burning._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *അപ്പം + മീൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Appam + Fish Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • --- അപ്പം (ഇന്നലെ മാവ് ഉണ്ടാക്കിയത്) ---\n  • --- മീൻ കറി ---\n  • ഇഷ്ടമുള്ള മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി — 2\n  • തക്കാളി — 2\n  • ഇഞ്ചി-വെളുത്തുള്ളി — 1 ടേ.സ്പൂ.\n  • മഞ്ഞൾ, ചുവന്ന മുളക്, ഗരം മസാല\n  • കുടംപുളി — 2 കഷ്ണം\n  • കറി ഇല\n  • ഫ്ലാക്സ്സീഡ് — 1 ടേ.സ്പൂ. (ഒടുവിൽ ചേർക്കുക)\n  • ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കറി ഇല 1 ടേ.സ്പൂ. എണ്ണയിൽ വഴറ്റുക.\n  2. മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി ഇട്ട് ഇളക്കുക.\n  3. കുടംപുളി + വെള്ളം ഇട്ട് തിളപ്പിക്കുക.\n  4. മീൻ ഇട്ട് 8-10 മിനിറ്റ് വേവിക്കുക.\n  5. ഒടുവിൽ ഫ്ലാക്സ്സീഡ് ചേർക്കുക.\n\n  --- Appam ---\n  1. Pour batter (from last night) into hot appam pan, swirl, cover and cook.\n  --- Fish Curry ---\n  2. Heat oil, sauté onion + ginger-garlic + curry leaves.\n  3. Add turmeric + red chilli + tomatoes + kudampuli, stir and cook.\n  4. Add fish + water, cook 10 minutes.\n  5. Stir in ground flaxseed at the end.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 അപ്പം + 200g മീൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ അപ്പം + 120g മീൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 അപ്പം + 180g മീൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒമേഗ-3 + ഫ്ലാക്സ്സീഡ് ഒരുമിച്ച് — ഉദ്ദേ ദഹനം + ഹൃദ്രോഗ സംരക്ഷണം.\n    _Omega-3 from fish + flaxseed together — boosts digestion and heart health._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 10,
+      "suhoor": {
+        "dish": "ഓട്സ് + ഫ്ലാക്സ്സീഡ് + 2 വേവിച്ച മുട്ട",
+        "prepTime": "8 മിനിറ്റ്",
+        "tip": "10 ദിവസം! ഒരു ഊഷ്മള സുഹൂർ.",
+        "ingredients": [
+          "ഓട്സ്, ചൂടുവെള്ളം",
+          "ഫ്ലാക്സ്സീഡ് (പൊടിച്ചത്) — 1 ടേ.സ്പൂ.",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2",
+          "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)",
+          "Abu-വിന്: പാൽ 1 ഗ്ലാസ്",
+          "Ajmi-ക്ക്: ദഹി"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം — 3 മിനിറ്റ്.",
+          "2. ഫ്ലാക്സ്സീഡ് ചേർക്കുക.",
+          "3. ഫ്രിഡ്ജ് മുട്ട + ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 470,
+          "ajmi": 330,
+          "abu": 450
+        },
+        "healthTip": "10 ദിവസം! ഇഫ്താർ ശേഷം 20 മിനിറ്റ് ഹൽകാ നടത്തം ശ്രമിക്കൂ.",
+        "dish_en": "Oats + Flaxseed + 2 Boiled Eggs",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Sprinkle flaxseed on top.",
+          "3. Take boiled eggs from fridge, peel and serve."
+        ],
+        "healthTip_en": "Day 10! Try a 20-minute gentle walk after Iftar — speeds up weight loss."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് ദോശ + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്, ഉഴുന്ന്, ഉപ്പ്",
+          "കടല (വേവിച്ചത്), ഉള്ളി, തക്കാളി, മസാലകൾ",
+          "ഹരിത ധനിയ, തേങ്ങ, ഹരിത മുളക് (ചട്ണി)"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം ചേർത്ത് ദോശ മാവ് ഉണ്ടാക്കുക.",
+          "2. ചൂടുള്ള തവയിൽ ദോശ ചുട്ടെടുക്കുക.",
+          "3. കടലക്കറി: ഉള്ളി + മസാലകൾ + തക്കാളി + കടല 10-15 മിനിറ്റ് വേവിക്കുക.",
+          "4. ഹരിത ചട്ണി: ധനിയ + തേങ്ങ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ് അടിക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി",
+          "ajmi": "2 ദോശ + ¾ കടലക്കറി + ചട്ണി",
+          "abu": "2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 610,
+          "ajmi": 435,
+          "abu": 578
+        },
+        "healthTip": "ഹരിത ചട്ണി — ആന്റി-ഓക്സിഡൻ്റ്, ദഹനം ഉത്തേജിക്കും.",
+        "dish_en": "Wheat Dosa + Kadala Curry + Green Chutney",
+        "method_en": [
+          "1. Mix wheat flour + urad dal + salt + water into batter, make dosas.",
+          "2. Kadala curry: sauté onion + spices + tomatoes + cooked chickpeas 10-15 mins.",
+          "3. Green chutney: blend coriander + coconut + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Green chutney — antioxidants + aids digestion. Have it daily if possible."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 10 — Day 10*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ഫ്ലാക്സ്സീഡ് + 2 വേവിച്ച മുട്ട*\n    _Oats + Flaxseed + 2 Boiled Eggs_\n⏱️ 8 മിനിറ്റ്\n💭 _10 ദിവസം! ഒരു ഊഷ്മള സുഹൂർ._\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്, ചൂടുവെള്ളം\n  • ഫ്ലാക്സ്സീഡ് (പൊടിച്ചത്) — 1 ടേ.സ്പൂ.\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n  • Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ)\n  • Abu-വിന്: പാൽ 1 ഗ്ലാസ്\n  • Ajmi-ക്ക്: ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം — 3 മിനിറ്റ്.\n  2. ഫ്ലാക്സ്സീഡ് ചേർക്കുക.\n  3. ഫ്രിഡ്ജ് മുട്ട + ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Sprinkle flaxseed on top.\n  3. Take boiled eggs from fridge, peel and serve.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 10 ദിവസം! ഇഫ്താർ ശേഷം 20 മിനിറ്റ് ഹൽകാ നടത്തം ശ്രമിക്കൂ.\n    _Day 10! Try a 20-minute gentle walk after Iftar — speeds up weight loss._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് ദോശ + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Wheat Dosa + Kadala Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്, ഉഴുന്ന്, ഉപ്പ്\n  • കടല (വേവിച്ചത്), ഉള്ളി, തക്കാളി, മസാലകൾ\n  • ഹരിത ധനിയ, തേങ്ങ, ഹരിത മുളക് (ചട്ണി)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം ചേർത്ത് ദോശ മാവ് ഉണ്ടാക്കുക.\n  2. ചൂടുള്ള തവയിൽ ദോശ ചുട്ടെടുക്കുക.\n  3. കടലക്കറി: ഉള്ളി + മസാലകൾ + തക്കാളി + കടല 10-15 മിനിറ്റ് വേവിക്കുക.\n  4. ഹരിത ചട്ണി: ധനിയ + തേങ്ങ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ് അടിക്കുക.\n\n  1. Mix wheat flour + urad dal + salt + water into batter, make dosas.\n  2. Kadala curry: sauté onion + spices + tomatoes + cooked chickpeas 10-15 mins.\n  3. Green chutney: blend coriander + coconut + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി\n  • Ajmi: 2 ദോശ + ¾ കടലക്കറി + ചട്ണി\n  • Abu: 2 ദോശ + 1 കപ്പ് കടലക്കറി + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഹരിത ചട്ണി — ആന്റി-ഓക്സിഡൻ്റ്, ദഹനം ഉത്തേജിക്കും.\n    _Green chutney — antioxidants + aids digestion. Have it daily if possible._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 11,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ബദാം + ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "tip": "ലളിതം, ഊർജ്ജദായകം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ഉപ്പ്",
+          "ബദാം — 5",
+          "ഗ്രീൻ ടി / ദഹി"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക (മുൻദിവസം കുഴച്ചത്). ചൂടുള്ള തവ, ചുട്ടെടുക്കുക.",
+          "2. ബദാം + ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "2 ചെറിയ പത്തിരി + 5 ബദാം + ദഹി",
+          "abu": "2 പത്തിരി + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 420,
+          "ajmi": 305,
+          "abu": 400
+        },
+        "healthTip": "ദൈനം 5 ബദാം — ഭക്ഷ്യ ആഗ്രഹം കുറക്കുന്നു.",
+        "dish_en": "Wheat Pathiri + Almonds + Green Tea",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa (no oil).",
+          "2. Serve with almonds + green tea / lemon tea (Ammar), milk (Abu & Ajmi)."
+        ],
+        "healthTip_en": "5 almonds daily — reduces hunger cravings throughout the fast."
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + മുട്ടക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഇഡ്ഡലി (ഫർമൻ്റഡ് മാവ്)",
+          "മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മസാലകൾ, തേങ്ങ പാൽ",
+          "ഹരിത ധനിയ, തേങ്ങ, ഹരിത മുളക് (ചട്ണി)"
+        ],
+        "method": [
+          "1. ഇഡ്ഡലി — ആവി കൊള്ളിക്കുക 10-12 മിനിറ്റ്.",
+          "2. മുട്ടക്കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + മസാലകൾ + തക്കാളി + വേവിച്ച മുട്ട + തേങ്ങ പാൽ 10 മിനിറ്റ്.",
+          "3. ഹരിത ചട്ണി — ധനിയ + തേങ്ങ + ഹരിത മുളക് + ലിമ്മൺ."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി",
+          "ajmi": "2 ഇഡ്ഡലി + 2 മുട്ട + ചട്ണി",
+          "abu": "3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 600,
+          "ajmi": 428,
+          "abu": 568
+        },
+        "healthTip": "ദഹി ദൈനം ഒരു ഗ്ലാസ് — ഗ്യാസ്ട്രൈറ്റിസ് + ദഹനക്കേട് ദൂരെ.",
+        "dish_en": "Idli + Egg Curry + Green Chutney",
+        "method_en": [
+          "--- Idli ---",
+          "1. Pour idli batter into mould, steam 10-12 minutes.",
+          "--- Egg Curry ---",
+          "2. Boil eggs, peel and score. Sauté onion + ginger-garlic + spices + tomatoes.",
+          "3. Add eggs + 2 tbsp coconut milk, cook 10 minutes.",
+          "--- Green Chutney ---",
+          "4. Blend coriander + coconut + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "A glass of curd daily removes digestive issues and keeps gut healthy."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 11 — Day 11*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + ബദാം + ഗ്രീൻ ടി*\n    _Wheat Pathiri + Almonds + Green Tea_\n⏱️ 12 മിനിറ്റ്\n💭 _ലളിതം, ഊർജ്ജദായകം_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ഉപ്പ്\n  • ബദാം — 5\n  • ഗ്രീൻ ടി / ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക (മുൻദിവസം കുഴച്ചത്). ചൂടുള്ള തവ, ചുട്ടെടുക്കുക.\n  2. ബദാം + ഗ്രീൻ ടി / ദഹി.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa (no oil).\n  2. Serve with almonds + green tea / lemon tea (Ammar), milk (Abu & Ajmi).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 2 ചെറിയ പത്തിരി + 5 ബദാം + ദഹി\n  • Abu: 2 പത്തിരി + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ദൈനം 5 ബദാം — ഭക്ഷ്യ ആഗ്രഹം കുറക്കുന്നു.\n    _5 almonds daily — reduces hunger cravings throughout the fast._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + മുട്ടക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Idli + Egg Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഇഡ്ഡലി (ഫർമൻ്റഡ് മാവ്)\n  • മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മസാലകൾ, തേങ്ങ പാൽ\n  • ഹരിത ധനിയ, തേങ്ങ, ഹരിത മുളക് (ചട്ണി)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഇഡ്ഡലി — ആവി കൊള്ളിക്കുക 10-12 മിനിറ്റ്.\n  2. മുട്ടക്കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + മസാലകൾ + തക്കാളി + വേവിച്ച മുട്ട + തേങ്ങ പാൽ 10 മിനിറ്റ്.\n  3. ഹരിത ചട്ണി — ധനിയ + തേങ്ങ + ഹരിത മുളക് + ലിമ്മൺ.\n\n  --- Idli ---\n  1. Pour idli batter into mould, steam 10-12 minutes.\n  --- Egg Curry ---\n  2. Boil eggs, peel and score. Sauté onion + ginger-garlic + spices + tomatoes.\n  3. Add eggs + 2 tbsp coconut milk, cook 10 minutes.\n  --- Green Chutney ---\n  4. Blend coriander + coconut + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി\n  • Ajmi: 2 ഇഡ്ഡലി + 2 മുട്ട + ചട്ണി\n  • Abu: 3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ദഹി ദൈനം ഒരു ഗ്ലാസ് — ഗ്യാസ്ട്രൈറ്റിസ് + ദഹനക്കേട് ദൂരെ.\n    _A glass of curd daily removes digestive issues and keeps gut healthy._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 12,
+      "suhoor": {
+        "dish": "ഓട്സ് + ഇഞ്ചി + കറുവ + 2 മുട്ട",
+        "prepTime": "10 മിനിറ്റ്",
+        "tip": "ഇഞ്ചി ദഹനം ത്വരിതം — നോമ്പ് ദിനം ഭക്ഷ്യ ആഗ്രഹം കുറക്കും",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "ഇഞ്ചി (ഉരച്ചത്) — 1 ടീ.സ്പൂ.",
+          "കറുവ — ¼ ടീ.സ്പൂ.",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ഇഞ്ചി + കറുവ ചേർക്കുക.",
+          "3. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 460,
+          "ajmi": 325,
+          "abu": 440
+        },
+        "healthTip": "ഇഞ്ചി + ലൈം — ദൈനം കഴിക്കുക, ദഹനം + ഭക്ഷ്യ ആഗ്രഹം നിയന്ത്രണം.",
+        "dish_en": "Oats + Ginger + Cinnamon + 2 Eggs",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add grated ginger + cinnamon, mix well.",
+          "3. Take boiled eggs from fridge, peel and serve."
+        ],
+        "healthTip_en": "Ginger + lemon daily — speeds up digestion, controls hunger during fast."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ചിക്കൻ കറി (ഇഞ്ചി-ലൈം) + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ലിമ്മൺ",
+          "ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇട്ട് ചൂടുള്ള തവയിൽ ചുട്ടെടുക്കുക.",
+          "2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ചിക്കൻ — 20 മിനിറ്റ് വേവിക്കുക.",
+          "3. ഒടുവിൽ ലിമ്മൺ നീര് ഇറ്റിക്കുക.",
+          "4. ഫ്രഷ് സലാഡ് ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 650,
+          "ajmi": 463,
+          "abu": 613
+        },
+        "healthTip": "ഇഞ്ചി + ലൈം ചിക്കൻ — ഉയർന്ന ഫ്ലേവർ = ഭക്ഷ്യ ആഗ്രഹം കുറക്കൽ.",
+        "dish_en": "Wheat Pathiri + Ginger-Lemon Chicken Curry + Fresh Salad",
+        "method_en": [
+          "1. Roll out wheat dough, cook on hot tawa (no oil).",
+          "2. Heat oil, sauté onion + ginger-garlic + garam masala + tomatoes.",
+          "3. Add chicken, cook 20 minutes. Squeeze lemon juice at the end.",
+          "4. Serve with fresh salad."
+        ],
+        "healthTip_en": "High flavour meals reduce overeating — ginger + lemon chicken is a perfect combo."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 12 — Day 12*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ഇഞ്ചി + കറുവ + 2 മുട്ട*\n    _Oats + Ginger + Cinnamon + 2 Eggs_\n⏱️ 10 മിനിറ്റ്\n💭 _ഇഞ്ചി ദഹനം ത്വരിതം — നോമ്പ് ദിനം ഭക്ഷ്യ ആഗ്രഹം കുറക്കും_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • ഇഞ്ചി (ഉരച്ചത്) — 1 ടീ.സ്പൂ.\n  • കറുവ — ¼ ടീ.സ്പൂ.\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ഇഞ്ചി + കറുവ ചേർക്കുക.\n  3. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add grated ginger + cinnamon, mix well.\n  3. Take boiled eggs from fridge, peel and serve.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഇഞ്ചി + ലൈം — ദൈനം കഴിക്കുക, ദഹനം + ഭക്ഷ്യ ആഗ്രഹം നിയന്ത്രണം.\n    _Ginger + lemon daily — speeds up digestion, controls hunger during fast._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ചിക്കൻ കറി (ഇഞ്ചി-ലൈം) + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Ginger-Lemon Chicken Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ലിമ്മൺ\n  • ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇട്ട് ചൂടുള്ള തവയിൽ ചുട്ടെടുക്കുക.\n  2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ചിക്കൻ — 20 മിനിറ്റ് വേവിക്കുക.\n  3. ഒടുവിൽ ലിമ്മൺ നീര് ഇറ്റിക്കുക.\n  4. ഫ്രഷ് സലാഡ് ഒപ്പം.\n\n  1. Roll out wheat dough, cook on hot tawa (no oil).\n  2. Heat oil, sauté onion + ginger-garlic + garam masala + tomatoes.\n  3. Add chicken, cook 20 minutes. Squeeze lemon juice at the end.\n  4. Serve with fresh salad.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഇഞ്ചി + ലൈം ചിക്കൻ — ഉയർന്ന ഫ്ലേവർ = ഭക്ഷ്യ ആഗ്രഹം കുറക്കൽ.\n    _High flavour meals reduce overeating — ginger + lemon chicken is a perfect combo._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 13,
+      "suhoor": {
+        "dish": "ഓട്സ് + ദഹി + ബദാം + ഫ്ലാക്സ്സീഡ്",
+        "prepTime": "5 മിനിറ്റ്",
+        "tip": "ഒരു ചൂടും ഇല്ലാതെ ഏറ്റവും വേഗം",
+        "ingredients": [
+          "ഓട്സ് — Ammar: 1 കപ്പ്, Abu: 1 കപ്പ്, Ajmi: ¾ കപ്പ്",
+          "ദഹി — Ajmi: 1 ഗ്ലാസ് (ചേർക്കുക); Ammar + Abu: ഒഴിവാക്കി ഗ്രീൻ ടി",
+          "ബദാം — 5",
+          "ഫ്ലാക്സ്സീഡ് (പൊടിച്ചത്) — 1 ടേ.സ്പൂ."
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം ഇളക്കുക 3 മിനിറ്റ്.",
+          "2. ബദാം + ഫ്ലാക്സ്സീഡ് ചേർക്കുക.",
+          "3. Ajmi: ദഹി ഒപ്പം; Ammar + Abu: ഗ്രീൻ ടി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 440,
+          "ajmi": 340,
+          "abu": 422
+        },
+        "healthTip": "ഒമേഗ-3 + ഫൈബർ + ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ദൈനം ഒരു ഗ്ലാസ്സ്.",
+        "dish_en": "Oats + Curd + Almonds + Flaxseed",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add flaxseed + almonds on top.",
+          "3. Ajmi: serve with curd. Ammar: green tea / lemon tea. Abu: milk."
+        ],
+        "healthTip_en": "Omega-3 + fibre + healthy fats — a powerful daily trio for weight loss."
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + മീൻ കറി (കൊക്കം) + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഇഡ്ഡലി",
+          "മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "കൊക്കം — 3 കഷ്ണം",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, കറി ഇല",
+          "മഞ്ഞൾ, ചുവന്ന മുളക്",
+          "ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)"
+        ],
+        "method": [
+          "1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.",
+          "2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കറി ഇല വഴറ്റുക.",
+          "3. മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി + കൊക്കം ഇട്ട് ഇളക്കി വേവിക്കുക.",
+          "4. മീൻ + വെള്ളം ഇട്ട് 10 മിനിറ്റ് കൂടി വേവിക്കുക.",
+          "5. ഫ്രഷ് സലാഡ് ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 200g മീൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ഇഡ്ഡലി + 120g മീൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "3 ഇഡ്ഡലി + 180g മീൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 625,
+          "ajmi": 442,
+          "abu": 590
+        },
+        "healthTip": "കൊക്കം ദഹനം ത്വരിതം + ഉദരം ആരോഗ്യം — കേരള ഭക്ഷണത്തിൻ്റെ ഒരു രഹസ്യ ആരോഗ്യ ചേരുവ.",
+        "dish_en": "Idli + Fish Curry with Kudampuli + Fresh Salad",
+        "method_en": [
+          "--- Idli ---",
+          "1. Steam idli batter in mould for 10-12 minutes.",
+          "--- Fish Curry ---",
+          "2. Heat oil, sauté onion + ginger-garlic + curry leaves.",
+          "3. Add turmeric + red chilli + tomatoes + kudampuli (gamboge), stir.",
+          "4. Add fish + water, cook 10 minutes.",
+          "--- Salad ---",
+          "5. Toss fresh greens + tomato + onion + lemon + salt."
+        ],
+        "healthTip_en": "Kudampuli (Gamboge) speeds up digestion and improves gut health — a Kerala superfood."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 13 — Day 13*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ദഹി + ബദാം + ഫ്ലാക്സ്സീഡ്*\n    _Oats + Curd + Almonds + Flaxseed_\n⏱️ 5 മിനിറ്റ്\n💭 _ഒരു ചൂടും ഇല്ലാതെ ഏറ്റവും വേഗം_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ് — Ammar: 1 കപ്പ്, Abu: 1 കപ്പ്, Ajmi: ¾ കപ്പ്\n  • ദഹി — Ajmi: 1 ഗ്ലാസ് (ചേർക്കുക); Ammar + Abu: ഒഴിവാക്കി ഗ്രീൻ ടി\n  • ബദാം — 5\n  • ഫ്ലാക്സ്സീഡ് (പൊടിച്ചത്) — 1 ടേ.സ്പൂ.\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം ഇളക്കുക 3 മിനിറ്റ്.\n  2. ബദാം + ഫ്ലാക്സ്സീഡ് ചേർക്കുക.\n  3. Ajmi: ദഹി ഒപ്പം; Ammar + Abu: ഗ്രീൻ ടി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add flaxseed + almonds on top.\n  3. Ajmi: serve with curd. Ammar: green tea / lemon tea. Abu: milk.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒമേഗ-3 + ഫൈബർ + ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ദൈനം ഒരു ഗ്ലാസ്സ്.\n    _Omega-3 + fibre + healthy fats — a powerful daily trio for weight loss._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + മീൻ കറി (കൊക്കം) + ഫ്രഷ് സലാഡ്*\n    _Idli + Fish Curry with Kudampuli + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഇഡ്ഡലി\n  • മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • കൊക്കം — 3 കഷ്ണം\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, കറി ഇല\n  • മഞ്ഞൾ, ചുവന്ന മുളക്\n  • ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.\n  2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കറി ഇല വഴറ്റുക.\n  3. മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി + കൊക്കം ഇട്ട് ഇളക്കി വേവിക്കുക.\n  4. മീൻ + വെള്ളം ഇട്ട് 10 മിനിറ്റ് കൂടി വേവിക്കുക.\n  5. ഫ്രഷ് സലാഡ് ഒപ്പം.\n\n  --- Idli ---\n  1. Steam idli batter in mould for 10-12 minutes.\n  --- Fish Curry ---\n  2. Heat oil, sauté onion + ginger-garlic + curry leaves.\n  3. Add turmeric + red chilli + tomatoes + kudampuli (gamboge), stir.\n  4. Add fish + water, cook 10 minutes.\n  --- Salad ---\n  5. Toss fresh greens + tomato + onion + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 200g മീൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ഇഡ്ഡലി + 120g മീൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 3 ഇഡ്ഡലി + 180g മീൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* കൊക്കം ദഹനം ത്വരിതം + ഉദരം ആരോഗ്യം — കേരള ഭക്ഷണത്തിൻ്റെ ഒരു രഹസ്യ ആരോഗ്യ ചേരുവ.\n    _Kudampuli (Gamboge) speeds up digestion and improves gut health — a Kerala superfood._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 14,
+      "theme": "🌟 2 ആഴ്ച! Alhamdulillah!",
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "tip": "14 ദിനം — ഒരു ഊഷ്മള ആഘോഷ പ്രഭാതം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ഉപ്പ്",
+          "മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ചൂടുള്ള തവ (എണ്ണ ഇല്ലാതെ) ചുട്ടെടുക്കുക.",
+          "2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "2 ചെറിയ പത്തിരി + 1 മുട്ട + ദഹി",
+          "abu": "2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 460,
+          "ajmi": 325,
+          "abu": 440
+        },
+        "healthTip": "14 ദിവസം! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിത ശൈലിയായി മാറുന്നു. Alhamdulillah!",
+        "dish_en": "Wheat Pathiri + 2 Boiled Eggs",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa.",
+          "2. Take boiled eggs from fridge, peel and serve.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "14 days! Mindful eating is becoming a lifestyle. Alhamdulillah!"
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ബീഫ് ഇറച്ചിക്കറി + ഫ്രഷ് സലാഡ്",
+        "isWeeklySpecial": true,
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ബീഫ് (മെലിഞ്ഞ) — Ammar: 180g, Ajmi: 100g, Abu: 160g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ഇഞ്ചി",
+          "കൂക്കംബർ + ഉള്ളി + ടൊമ. (സലാഡ്)"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ബീഫ് + മഞ്ഞൾ + ഗരം മസാല + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + തക്കാളി — 30-40 മിനിറ്റ് വേവിക്കുക.",
+          "3. ഫ്രഷ് സലാഡ് ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 180g ബീഫ് + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 100g ബീഫ് + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 160g ബീഫ് + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 668,
+          "ajmi": 472,
+          "abu": 628
+        },
+        "healthTip": "14 ദിനം — ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിത ശൈലിയായി. ഇനി 16 ദിവസം! 💪",
+        "dish_en": "Wheat Pathiri + Beef Curry + Fresh Salad",
+        "method_en": [
+          "--- Beef Curry ---",
+          "1. Marinate beef with turmeric + garam masala + salt.",
+          "2. Sauté onion + ginger-garlic + tomatoes in 1 tbsp oil.",
+          "3. Add beef + ginger + curry leaves, cook 30-40 mins on low heat.",
+          "--- Wheat Pathiri ---",
+          "4. Roll out wheat dough, cook on hot tawa (no oil).",
+          "--- Salad ---",
+          "5. Toss cucumber + onion + tomato + lemon juice + salt."
+        ],
+        "healthTip_en": "14 days of healthy eating — 16 more to go! You are all doing amazing. 💪"
+      },
+      "whatsappMessage": "🌙 *ദിവസം 14 — Day 14*\n✨ 🌟 2 ആഴ്ച! Alhamdulillah!\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി*\n    _Wheat Pathiri + 2 Boiled Eggs_\n⏱️ 12 മിനിറ്റ്\n💭 _14 ദിനം — ഒരു ഊഷ്മള ആഘോഷ പ്രഭാതം_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ഉപ്പ്\n  • മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ചൂടുള്ള തവ (എണ്ണ ഇല്ലാതെ) ചുട്ടെടുക്കുക.\n  2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa.\n  2. Take boiled eggs from fridge, peel and serve.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 2 ചെറിയ പത്തിരി + 1 മുട്ട + ദഹി\n  • Abu: 2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 14 ദിവസം! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിത ശൈലിയായി മാറുന്നു. Alhamdulillah!\n    _14 days! Mindful eating is becoming a lifestyle. Alhamdulillah!_\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ബീഫ് ഇറച്ചിക്കറി + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Beef Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ബീഫ് (മെലിഞ്ഞ) — Ammar: 180g, Ajmi: 100g, Abu: 160g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ഇഞ്ചി\n  • കൂക്കംബർ + ഉള്ളി + ടൊമ. (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ബീഫ് + മഞ്ഞൾ + ഗരം മസാല + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + തക്കാളി — 30-40 മിനിറ്റ് വേവിക്കുക.\n  3. ഫ്രഷ് സലാഡ് ഒപ്പം.\n\n  --- Beef Curry ---\n  1. Marinate beef with turmeric + garam masala + salt.\n  2. Sauté onion + ginger-garlic + tomatoes in 1 tbsp oil.\n  3. Add beef + ginger + curry leaves, cook 30-40 mins on low heat.\n  --- Wheat Pathiri ---\n  4. Roll out wheat dough, cook on hot tawa (no oil).\n  --- Salad ---\n  5. Toss cucumber + onion + tomato + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 180g ബീഫ് + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 100g ബീഫ് + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 160g ബീഫ് + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 14 ദിനം — ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിത ശൈലിയായി. ഇനി 16 ദിവസം! 💪\n    _14 days of healthy eating — 16 more to go! You are all doing amazing. 💪_\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 15,
+      "suhoor": {
+        "dish": "ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ബദാം + ഗ്രീൻ ടി",
+        "prepTime": "5 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "ഫ്ലാക്സ്സീഡ്",
+          "ബദാം — 5"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ഫ്ലാക്സ്സീഡ് + ബദാം.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 415,
+          "ajmi": 305,
+          "abu": 398
+        },
+        "healthTip": "ഫൈബർ + ഒമേഗ-3 — ആഴ്ചയിൽ 5 ദിവസം ഇത് ഉൾപ്പെടുത്തുക.",
+        "dish_en": "Oats + Flaxseed + Almonds",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add flaxseed + almonds on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Fibre + Omega-3 — include this combo at least 5 days a week."
+      },
+      "iftar": {
+        "dish": "അപ്പം + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "അപ്പം (ഇന്നലെ മാവ്)",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ഗ്രീൻ ടി",
+          "ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)"
+        ],
+        "method": [
+          "1. അപ്പം — ചൂടുള്ള അപ്പ ചെമ്പിൽ ഒഴിച്ച് അടച്ചു വേവിക്കുക.",
+          "2. ചിക്കൻ കറി — 1 ടേ.സ്പൂ. എണ്ണ + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്.",
+          "3. ഫ്രഷ് സലാഡ് ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 അപ്പം + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ അപ്പം + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 അപ്പം + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 648,
+          "ajmi": 460,
+          "abu": 611
+        },
+        "healthTip": "ദൈനം ഇഫ്താർ ശേഷം 20 മിനിറ്റ് ഹൽകാ നടത്തം — ഭക്ഷണം ദഹനം + ഭാരം കുറക്കൽ.",
+        "dish_en": "Appam + Chicken Curry + Fresh Salad",
+        "method_en": [
+          "--- Appam ---",
+          "1. Pour batter (from last night) into hot appam pan, swirl, cover and cook.",
+          "--- Chicken Curry ---",
+          "2. Heat 1 tbsp oil, sauté onion + ginger-garlic + garam masala + tomatoes.",
+          "3. Add chicken, cook 20 minutes till done.",
+          "--- Salad ---",
+          "4. Toss fresh greens + tomato + onion + lemon juice + salt."
+        ],
+        "healthTip_en": "A 20-minute gentle walk after Iftar every day — fastest way to lose weight during Ramadan."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 15 — Day 15*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ബദാം + ഗ്രീൻ ടി*\n    _Oats + Flaxseed + Almonds_\n⏱️ 5 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • ഫ്ലാക്സ്സീഡ്\n  • ബദാം — 5\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ഫ്ലാക്സ്സീഡ് + ബദാം.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add flaxseed + almonds on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഫൈബർ + ഒമേഗ-3 — ആഴ്ചയിൽ 5 ദിവസം ഇത് ഉൾപ്പെടുത്തുക.\n    _Fibre + Omega-3 — include this combo at least 5 days a week._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *അപ്പം + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Appam + Chicken Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • അപ്പം (ഇന്നലെ മാവ്)\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ഗ്രീൻ ടി\n  • ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. അപ്പം — ചൂടുള്ള അപ്പ ചെമ്പിൽ ഒഴിച്ച് അടച്ചു വേവിക്കുക.\n  2. ചിക്കൻ കറി — 1 ടേ.സ്പൂ. എണ്ണ + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്.\n  3. ഫ്രഷ് സലാഡ് ഒപ്പം.\n\n  --- Appam ---\n  1. Pour batter (from last night) into hot appam pan, swirl, cover and cook.\n  --- Chicken Curry ---\n  2. Heat 1 tbsp oil, sauté onion + ginger-garlic + garam masala + tomatoes.\n  3. Add chicken, cook 20 minutes till done.\n  --- Salad ---\n  4. Toss fresh greens + tomato + onion + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 അപ്പം + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ അപ്പം + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 അപ്പം + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ദൈനം ഇഫ്താർ ശേഷം 20 മിനിറ്റ് ഹൽകാ നടത്തം — ഭക്ഷണം ദഹനം + ഭാരം കുറക്കൽ.\n    _A 20-minute gentle walk after Iftar every day — fastest way to lose weight during Ramadan._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 16,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ബദാം + ഗ്ലാസ് ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ബദാം — 5",
+          "ഗ്രീൻ ടി / ദഹി"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക, ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ബദാം + ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "2 ചെറിയ പത്തിരി + 5 ബദാം + ദഹി",
+          "abu": "2 പത്തിരി + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 405,
+          "ajmi": 295,
+          "abu": 388
+        },
+        "healthTip": "ഗോതമ്പ് പത്തിരി + ബദാം — ആരോഗ്യകരമായ ഫൈബർ + ഫ്യാറ്റ്സ്.",
+        "dish_en": "Wheat Pathiri + Almonds",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa (no oil).",
+          "2. Serve with almonds + green tea / lemon tea (Ammar), milk (Abu & Ajmi)."
+        ],
+        "healthTip_en": "Wheat pathiri + almonds — healthy fibre + healthy fats."
+      },
+      "iftar": {
+        "dish": "ഓട്സ് ദോശ + മീൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഓട്സ് ദോശ: ഓട്സ്, ഉഴുന്ന്, ഉപ്പ്",
+          "മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, കൊക്കം, മഞ്ഞൾ, ചുവന്ന മുളക്"
+        ],
+        "method": [
+          "1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം — ദോശ ചുടുക.",
+          "2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി.",
+          "3. മീൻ + വെള്ളം ഇട്ട് 10 മിനിറ്റ്."
+        ],
+        "portions": {
+          "ammar": "2 ദോശ + 200g മീൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ദോശ + 120g മീൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 ദോശ + 180g മീൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 635,
+          "ajmi": 450,
+          "abu": 600
+        },
+        "healthTip": "ആഴ്ചയിൽ 2-3 ദിവസം മീൻ — ഒമേഗ-3 + ലീൻ പ്രോട്ടീൻ.",
+        "dish_en": "Oats Dosa + Fish Curry + Fresh Salad",
+        "method_en": [
+          "--- Oats Dosa ---",
+          "1. Mix oats + soaked urad dal + salt + water, pour on hot tawa with little oil.",
+          "--- Fish Curry ---",
+          "2. Sauté onion + ginger-garlic + kudampuli + turmeric + red chilli + tomatoes.",
+          "3. Add fish + water, cook 10 minutes."
+        ],
+        "healthTip_en": "Fish 2-3 times a week — Omega-3 + lean protein for weight loss and heart health."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 16 — Day 16*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + ബദാം + ഗ്ലാസ് ഗ്രീൻ ടി*\n    _Wheat Pathiri + Almonds_\n⏱️ 12 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ബദാം — 5\n  • ഗ്രീൻ ടി / ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക, ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ബദാം + ഗ്രീൻ ടി / ദഹി.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa (no oil).\n  2. Serve with almonds + green tea / lemon tea (Ammar), milk (Abu & Ajmi).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 2 ചെറിയ പത്തിരി + 5 ബദാം + ദഹി\n  • Abu: 2 പത്തിരി + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഗോതമ്പ് പത്തിരി + ബദാം — ആരോഗ്യകരമായ ഫൈബർ + ഫ്യാറ്റ്സ്.\n    _Wheat pathiri + almonds — healthy fibre + healthy fats._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഓട്സ് ദോശ + മീൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Oats Dosa + Fish Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ് ദോശ: ഓട്സ്, ഉഴുന്ന്, ഉപ്പ്\n  • മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, കൊക്കം, മഞ്ഞൾ, ചുവന്ന മുളക്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം — ദോശ ചുടുക.\n  2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി.\n  3. മീൻ + വെള്ളം ഇട്ട് 10 മിനിറ്റ്.\n\n  --- Oats Dosa ---\n  1. Mix oats + soaked urad dal + salt + water, pour on hot tawa with little oil.\n  --- Fish Curry ---\n  2. Sauté onion + ginger-garlic + kudampuli + turmeric + red chilli + tomatoes.\n  3. Add fish + water, cook 10 minutes.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 ദോശ + 200g മീൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ദോശ + 120g മീൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 ദോശ + 180g മീൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ആഴ്ചയിൽ 2-3 ദിവസം മീൻ — ഒമേഗ-3 + ലീൻ പ്രോട്ടീൻ.\n    _Fish 2-3 times a week — Omega-3 + lean protein for weight loss and heart health._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 17,
+      "suhoor": {
+        "dish": "ഓട്സ് + മുട്ട + ഗ്രീൻ ടി",
+        "prepTime": "10 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 468,
+          "ajmi": 330,
+          "abu": 448
+        },
+        "healthTip": "ഇഫ്താർ ശേഷം 6-8 ഗ്ലാസ് വെള്ളം — ഊർജ്ജം + ദഹനം.",
+        "dish_en": "Oats + 2 Boiled Eggs",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Take boiled eggs from fridge, peel and serve.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Drink 6-8 glasses of water between Iftar and sleep — energy + digestion."
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഇഡ്ഡലി (ഫർമൻ്റഡ്)",
+          "കടല (വേവിച്ചത്) — 2 കപ്പ്",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മസാലകൾ, തേങ്ങ പാൽ",
+          "ഹരിത ചട്ണി: ധനിയ, തേങ്ങ, ഹരിത മുളക്, ലിമ്മൺ"
+        ],
+        "method": [
+          "1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക 10-12 മിനിറ്റ്.",
+          "2. കടലക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + മസാലകൾ + തക്കാളി + കടല + തേങ്ങ പാൽ 10 മിനിറ്റ്.",
+          "3. ഹരിത ചട്ണി: ധനിയ + തേങ്ങ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ് അടിക്കുക."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 1 കപ്പ് കടലക്കറി + ചട്ണി",
+          "ajmi": "2 ഇഡ്ഡലി + ¾ കപ്പ് കടലക്കറി + ചട്ണി",
+          "abu": "3 ഇഡ്ഡലി + 1 കപ്പ് കടലക്കറി + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 605,
+          "ajmi": 430,
+          "abu": 573
+        },
+        "healthTip": "ദൈനം ഒരു കപ്പ് കടലക്കറി — ഹൃദ്രോഗ സാദ്ധ്യത കുറക്കുന്നു.",
+        "dish_en": "Idli + Kadala Curry + Green Chutney",
+        "method_en": [
+          "--- Idli ---",
+          "1. Steam idli batter in mould for 10-12 minutes.",
+          "--- Kadala Curry ---",
+          "2. Sauté onion + ginger-garlic + spices + tomatoes in 1 tbsp oil.",
+          "3. Add cooked chickpeas + 2 tbsp coconut milk, cook 10 minutes.",
+          "--- Green Chutney ---",
+          "4. Blend coriander + coconut + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Kadala (chickpeas) daily — reduces risk of heart disease."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 17 — Day 17*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + മുട്ട + ഗ്രീൻ ടി*\n    _Oats + 2 Boiled Eggs_\n⏱️ 10 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Take boiled eggs from fridge, peel and serve.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഇഫ്താർ ശേഷം 6-8 ഗ്ലാസ് വെള്ളം — ഊർജ്ജം + ദഹനം.\n    _Drink 6-8 glasses of water between Iftar and sleep — energy + digestion._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Idli + Kadala Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഇഡ്ഡലി (ഫർമൻ്റഡ്)\n  • കടല (വേവിച്ചത്) — 2 കപ്പ്\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മസാലകൾ, തേങ്ങ പാൽ\n  • ഹരിത ചട്ണി: ധനിയ, തേങ്ങ, ഹരിത മുളക്, ലിമ്മൺ\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക 10-12 മിനിറ്റ്.\n  2. കടലക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + മസാലകൾ + തക്കാളി + കടല + തേങ്ങ പാൽ 10 മിനിറ്റ്.\n  3. ഹരിത ചട്ണി: ധനിയ + തേങ്ങ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ് അടിക്കുക.\n\n  --- Idli ---\n  1. Steam idli batter in mould for 10-12 minutes.\n  --- Kadala Curry ---\n  2. Sauté onion + ginger-garlic + spices + tomatoes in 1 tbsp oil.\n  3. Add cooked chickpeas + 2 tbsp coconut milk, cook 10 minutes.\n  --- Green Chutney ---\n  4. Blend coriander + coconut + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 1 കപ്പ് കടലക്കറി + ചട്ണി\n  • Ajmi: 2 ഇഡ്ഡലി + ¾ കപ്പ് കടലക്കറി + ചട്ണി\n  • Abu: 3 ഇഡ്ഡലി + 1 കപ്പ് കടലക്കറി + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ദൈനം ഒരു കപ്പ് കടലക്കറി — ഹൃദ്രോഗ സാദ്ധ്യത കുറക്കുന്നു.\n    _Kadala (chickpeas) daily — reduces risk of heart disease._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 18,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + 3 മുട്ട ഓംലറ്റ്",
+        "prepTime": "12 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3",
+          "ഉള്ളി, ഹരിത മുളക്, ഉപ്പ്, കറുമ്മുളക്"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. മുട്ട + ഉള്ളി + ഹരിത മുളക് + ഉപ്പ് + കറുമ്മുളക് ഓംലറ്റ് ഉണ്ടാക്കുക."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 3 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "1 പത്തിരി + 2 മുട്ട + ദഹി",
+          "abu": "2 പത്തിരി + 3 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 480,
+          "ajmi": 338,
+          "abu": 460
+        },
+        "healthTip": "ഉള്ളി + ഹരിത മുളക് ഓംലറ്റ് — ആന്റി-ഓക്സിഡൻ്റ് + ദഹനം.",
+        "dish_en": "Wheat Pathiri + 3 Egg Omelette",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa.",
+          "2. Beat eggs + onion + green chilli + salt + pepper, cook omelette.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Onion + green chilli in omelette — antioxidants + aids digestion."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് ദോശ + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് + ഉഴുന്ന് ദോശ",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം — ദോശ ചുടുക.",
+          "2. ചിക്കൻ കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്."
+        ],
+        "portions": {
+          "ammar": "2 ദോശ + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ദോശ + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 ദോശ + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 642,
+          "ajmi": 455,
+          "abu": 605
+        },
+        "healthTip": "ഗോതമ്പ് ദോശ — വെള്ള അരി ദോശയേക്കാൾ ഫൈബർ 3 മടങ്ങ് കൂടുതൽ.",
+        "dish_en": "Wheat Dosa + Chicken Curry + Fresh Salad",
+        "method_en": [
+          "--- Wheat Dosa ---",
+          "1. Mix wheat flour + urad dal + salt + water into batter, make dosas.",
+          "--- Chicken Curry ---",
+          "2. Sauté onion + ginger-garlic + garam masala + tomatoes in 1 tbsp oil.",
+          "3. Add chicken, cook 20 minutes till done.",
+          "--- Salad ---",
+          "4. Toss fresh greens + tomato + onion + lemon + salt."
+        ],
+        "healthTip_en": "Wheat dosa has 3x more fibre than white rice dosa."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 18 — Day 18*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + 3 മുട്ട ഓംലറ്റ്*\n    _Wheat Pathiri + 3 Egg Omelette_\n⏱️ 12 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3\n  • ഉള്ളി, ഹരിത മുളക്, ഉപ്പ്, കറുമ്മുളക്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. മുട്ട + ഉള്ളി + ഹരിത മുളക് + ഉപ്പ് + കറുമ്മുളക് ഓംലറ്റ് ഉണ്ടാക്കുക.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa.\n  2. Beat eggs + onion + green chilli + salt + pepper, cook omelette.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 3 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 1 പത്തിരി + 2 മുട്ട + ദഹി\n  • Abu: 2 പത്തിരി + 3 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഉള്ളി + ഹരിത മുളക് ഓംലറ്റ് — ആന്റി-ഓക്സിഡൻ്റ് + ദഹനം.\n    _Onion + green chilli in omelette — antioxidants + aids digestion._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് ദോശ + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Wheat Dosa + Chicken Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് + ഉഴുന്ന് ദോശ\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം — ദോശ ചുടുക.\n  2. ചിക്കൻ കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്.\n\n  --- Wheat Dosa ---\n  1. Mix wheat flour + urad dal + salt + water into batter, make dosas.\n  --- Chicken Curry ---\n  2. Sauté onion + ginger-garlic + garam masala + tomatoes in 1 tbsp oil.\n  3. Add chicken, cook 20 minutes till done.\n  --- Salad ---\n  4. Toss fresh greens + tomato + onion + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 ദോശ + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ദോശ + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 ദോശ + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഗോതമ്പ് ദോശ — വെള്ള അരി ദോശയേക്കാൾ ഫൈബർ 3 മടങ്ങ് കൂടുതൽ.\n    _Wheat dosa has 3x more fibre than white rice dosa._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 19,
+      "suhoor": {
+        "dish": "ഓട്സ് + ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി",
+        "prepTime": "5 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "ബദാം — 5",
+          "ഗ്രൗണ്ട്നട്ട് (ഒരു പിടി)"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ബദാം + ഗ്രൗണ്ട്നട്ട് ചേർക്കുക.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 450,
+          "ajmi": 325,
+          "abu": 432
+        },
+        "healthTip": "ഗ്രൗണ്ട്നട്ട് + ബദാം — ആരോഗ്യകരമായ ഫ്യാറ്റ്സ്, ഭക്ഷ്യ ആഗ്രഹം കുറക്കൽ.",
+        "dish_en": "Oats + Almonds + Groundnuts",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add almonds + groundnuts on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Groundnuts + almonds — healthy fats, reduces hunger cravings."
+      },
+      "iftar": {
+        "dish": "അപ്പം + മുട്ടക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "അപ്പം (ഇന്നലെ മാവ്)",
+          "മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, തേങ്ങ പാൽ (2 ടേ.സ്പൂ.)"
+        ],
+        "method": [
+          "1. അപ്പം ചൂടുള്ള അപ്പ ചെമ്പിൽ വേവിക്കുക.",
+          "2. മുട്ടക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + വേവിച്ച മുട്ട + തേങ്ങ പാൽ 10 മിനിറ്റ്.",
+          "3. ഹരിത ചട്ണി: ധനിയ + ഹരിത മുളക് + ലിമ്മൺ."
+        ],
+        "portions": {
+          "ammar": "2 അപ്പം + 3 മുട്ട + ഹരിത ചട്ണി",
+          "ajmi": "2 ചെറിയ അപ്പം + 2 മുട്ട + ഹരിത ചട്ണി",
+          "abu": "2 അപ്പം + 3 മുട്ട + ഹരിത ചട്ണി"
+        },
+        "calories": {
+          "ammar": 625,
+          "ajmi": 442,
+          "abu": 590
+        },
+        "healthTip": "ഹരിത ചട്ണി ദൈനം — ആന്റി-ഓക്സിഡൻ്റ് + ദഹനം + ഭക്ഷ്യ ആഗ്രഹം കുറക്കൽ.",
+        "dish_en": "Appam + Egg Curry + Green Chutney",
+        "method_en": [
+          "--- Appam ---",
+          "1. Pour batter (from last night) into appam pan, swirl, cover and cook.",
+          "--- Egg Curry ---",
+          "2. Sauté onion + ginger-garlic + garam masala + tomatoes.",
+          "3. Add boiled eggs + 2 tbsp coconut milk, cook 10 minutes.",
+          "--- Green Chutney ---",
+          "4. Blend coriander + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Green chutney daily — antioxidants + digestion + reduces food cravings."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 19 — Day 19*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി*\n    _Oats + Almonds + Groundnuts_\n⏱️ 5 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • ബദാം — 5\n  • ഗ്രൗണ്ട്നട്ട് (ഒരു പിടി)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ബദാം + ഗ്രൗണ്ട്നട്ട് ചേർക്കുക.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add almonds + groundnuts on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഗ്രൗണ്ട്നട്ട് + ബദാം — ആരോഗ്യകരമായ ഫ്യാറ്റ്സ്, ഭക്ഷ്യ ആഗ്രഹം കുറക്കൽ.\n    _Groundnuts + almonds — healthy fats, reduces hunger cravings._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *അപ്പം + മുട്ടക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Appam + Egg Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • അപ്പം (ഇന്നലെ മാവ്)\n  • മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, തേങ്ങ പാൽ (2 ടേ.സ്പൂ.)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. അപ്പം ചൂടുള്ള അപ്പ ചെമ്പിൽ വേവിക്കുക.\n  2. മുട്ടക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + വേവിച്ച മുട്ട + തേങ്ങ പാൽ 10 മിനിറ്റ്.\n  3. ഹരിത ചട്ണി: ധനിയ + ഹരിത മുളക് + ലിമ്മൺ.\n\n  --- Appam ---\n  1. Pour batter (from last night) into appam pan, swirl, cover and cook.\n  --- Egg Curry ---\n  2. Sauté onion + ginger-garlic + garam masala + tomatoes.\n  3. Add boiled eggs + 2 tbsp coconut milk, cook 10 minutes.\n  --- Green Chutney ---\n  4. Blend coriander + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 അപ്പം + 3 മുട്ട + ഹരിത ചട്ണി\n  • Ajmi: 2 ചെറിയ അപ്പം + 2 മുട്ട + ഹരിത ചട്ണി\n  • Abu: 2 അപ്പം + 3 മുട്ട + ഹരിത ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഹരിത ചട്ണി ദൈനം — ആന്റി-ഓക്സിഡൻ്റ് + ദഹനം + ഭക്ഷ്യ ആഗ്രഹം കുറക്കൽ.\n    _Green chutney daily — antioxidants + digestion + reduces food cravings._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 20,
+      "theme": "🌟 20 ദിനം! ഒരു ശക്തമായ ജീവിതശൈലി!",
+      "suhoor": {
+        "dish": "ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ബദാം + ഗ്രീൻ ടി",
+        "prepTime": "5 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "ഫ്ലാക്സ്സീഡ്",
+          "ബദാം — 5"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ഫ്ലാക്സ്സീഡ് + ബദാം.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 418,
+          "ajmi": 308,
+          "abu": 400
+        },
+        "healthTip": "20 ദിനം! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിതശൈലിയായി — ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും തുടരൂ.",
+        "dish_en": "Oats + Flaxseed + Almonds",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add flaxseed + almonds on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "20 days! Healthy eating is now a lifestyle — keep this going after Eid too!"
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ചിക്കൻ-കടല കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ചിക്കൻ — Ammar: 150g, Ajmi: 90g, Abu: 130g",
+          "കടല — 1 കപ്പ്",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം",
+          "ഫ്രഷ് ഗ്രീൻ + ടൊമ. + ഉള്ളി (സലാഡ്)"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + കൊക്കം + തക്കാളി + ചിക്കൻ + കടല — 25 മിനിറ്റ്.",
+          "3. ഫ്രഷ് സലാഡ് ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 150g ചിക്കൻ + ½ കപ്പ് കടല + 1 കപ്പ് സലാഡ്",
+          "ajmi": "1 പത്തിരി + 90g ചിക്കൻ + ½ കപ്പ് കടല + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 130g ചിക്കൻ + ½ കപ്പ് കടല + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 660,
+          "ajmi": 470,
+          "abu": 625
+        },
+        "healthTip": "ചിക്കൻ + കടല ഒരുമിച്ച് — ഇരട്ടി പ്രോട്ടീൻ + ഫൈബർ.",
+        "dish_en": "Wheat Pathiri + Chicken & Kadala Curry + Fresh Salad",
+        "method_en": [
+          "1. Roll out wheat dough, cook on hot tawa (no oil).",
+          "2. Heat oil, sauté onion + ginger-garlic + garam masala + kudampuli + tomatoes.",
+          "3. Add chicken + cooked chickpeas, cook 25 minutes.",
+          "4. Serve with fresh salad."
+        ],
+        "healthTip_en": "Chicken + chickpeas together — double protein + fibre in one curry!"
+      },
+      "whatsappMessage": "🌙 *ദിവസം 20 — Day 20*\n✨ 🌟 20 ദിനം! ഒരു ശക്തമായ ജീവിതശൈലി!\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ബദാം + ഗ്രീൻ ടി*\n    _Oats + Flaxseed + Almonds_\n⏱️ 5 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • ഫ്ലാക്സ്സീഡ്\n  • ബദാം — 5\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ഫ്ലാക്സ്സീഡ് + ബദാം.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add flaxseed + almonds on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 20 ദിനം! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിതശൈലിയായി — ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും തുടരൂ.\n    _20 days! Healthy eating is now a lifestyle — keep this going after Eid too!_\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ചിക്കൻ-കടല കറി + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Chicken & Kadala Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ചിക്കൻ — Ammar: 150g, Ajmi: 90g, Abu: 130g\n  • കടല — 1 കപ്പ്\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം\n  • ഫ്രഷ് ഗ്രീൻ + ടൊമ. + ഉള്ളി (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + കൊക്കം + തക്കാളി + ചിക്കൻ + കടല — 25 മിനിറ്റ്.\n  3. ഫ്രഷ് സലാഡ് ഒപ്പം.\n\n  1. Roll out wheat dough, cook on hot tawa (no oil).\n  2. Heat oil, sauté onion + ginger-garlic + garam masala + kudampuli + tomatoes.\n  3. Add chicken + cooked chickpeas, cook 25 minutes.\n  4. Serve with fresh salad.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 150g ചിക്കൻ + ½ കപ്പ് കടല + 1 കപ്പ് സലാഡ്\n  • Ajmi: 1 പത്തിരി + 90g ചിക്കൻ + ½ കപ്പ് കടല + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 130g ചിക്കൻ + ½ കപ്പ് കടല + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ചിക്കൻ + കടല ഒരുമിച്ച് — ഇരട്ടി പ്രോട്ടീൻ + ഫൈബർ.\n    _Chicken + chickpeas together — double protein + fibre in one curry!_\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 21,
+      "isWeeklySpecial": true,
+      "theme": "🌟 3 ആഴ്ച! ബീഫ് സ്പെഷ്യൽ!",
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + 2 മുട്ട ഓംലറ്റ്",
+        "prepTime": "12 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2",
+          "ഉള്ളി, ഹരിത മുളക്, ഉപ്പ്"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ഓംലറ്റ് ഉണ്ടാക്കുക.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "1 പത്തിരി + 1 മുട്ട + ദഹി",
+          "abu": "2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 455,
+          "ajmi": 310,
+          "abu": 435
+        },
+        "healthTip": "21 ദിനം! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ഉറച്ച ശൈലി. Alhamdulillah!",
+        "dish_en": "Wheat Pathiri + 2 Egg Omelette",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa.",
+          "2. Beat eggs + onion + green chilli + salt, make omelette.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "21 days! A healthy habit takes 21 days to form. You've done it! Alhamdulillah!"
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ബീഫ്/മട്ടൻ ഇറച്ചിക്കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ബീഫ്/മട്ടൻ — Ammar: 180g, Ajmi: 100g, Abu: 160g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കറുമ്മുളക്, ഇഞ്ചി, കറി ഇല",
+          "ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)"
+        ],
+        "method": [
+          "1. ബീഫ്/മട്ടൻ + മഞ്ഞൾ + ഗരം മസാല + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + തക്കാളി + ഇഞ്ചി — 40 മിനിറ്റ് വേവിക്കുക.",
+          "2. ഗോതമ്പ് മാവ് ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "3. ഫ്രഷ് സലാഡ്."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 180g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 100g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 160g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 668,
+          "ajmi": 474,
+          "abu": 628
+        },
+        "healthTip": "3 ആഴ്ച! ഇഫ്താർ ശേഷം ഒരു ഗ്ലാസ് ഇളം ചൂടുവെള്ളം — ദഹനം ഉത്തേജനം.",
+        "dish_en": "Wheat Pathiri + Beef/Mutton Curry + Fresh Salad",
+        "method_en": [
+          "--- Beef/Mutton Curry ---",
+          "1. Marinate meat with turmeric + garam masala + salt.",
+          "2. Sauté onion + ginger-garlic + ginger + curry leaves in 1 tbsp oil.",
+          "3. Add meat + tomatoes, cook on low heat 40 minutes till tender.",
+          "--- Wheat Pathiri ---",
+          "4. Roll out wheat dough, cook on hot tawa (no oil).",
+          "--- Salad ---",
+          "5. Toss fresh greens + onion + tomato + lemon juice + salt."
+        ],
+        "healthTip_en": "Week 3 done! After Iftar, drink a glass of warm water — aids digestion."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 21 — Day 21*\n✨ 🌟 3 ആഴ്ച! ബീഫ് സ്പെഷ്യൽ!\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + 2 മുട്ട ഓംലറ്റ്*\n    _Wheat Pathiri + 2 Egg Omelette_\n⏱️ 12 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n  • ഉള്ളി, ഹരിത മുളക്, ഉപ്പ്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ഓംലറ്റ് ഉണ്ടാക്കുക.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa.\n  2. Beat eggs + onion + green chilli + salt, make omelette.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 1 പത്തിരി + 1 മുട്ട + ദഹി\n  • Abu: 2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 21 ദിനം! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ഉറച്ച ശൈലി. Alhamdulillah!\n    _21 days! A healthy habit takes 21 days to form. You've done it! Alhamdulillah!_\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ബീഫ്/മട്ടൻ ഇറച്ചിക്കറി + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Beef/Mutton Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ബീഫ്/മട്ടൻ — Ammar: 180g, Ajmi: 100g, Abu: 160g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കറുമ്മുളക്, ഇഞ്ചി, കറി ഇല\n  • ഫ്രഷ് ഗ്രീൻ + ഉള്ളി + ടൊമ. (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ബീഫ്/മട്ടൻ + മഞ്ഞൾ + ഗരം മസാല + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + തക്കാളി + ഇഞ്ചി — 40 മിനിറ്റ് വേവിക്കുക.\n  2. ഗോതമ്പ് മാവ് ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  3. ഫ്രഷ് സലാഡ്.\n\n  --- Beef/Mutton Curry ---\n  1. Marinate meat with turmeric + garam masala + salt.\n  2. Sauté onion + ginger-garlic + ginger + curry leaves in 1 tbsp oil.\n  3. Add meat + tomatoes, cook on low heat 40 minutes till tender.\n  --- Wheat Pathiri ---\n  4. Roll out wheat dough, cook on hot tawa (no oil).\n  --- Salad ---\n  5. Toss fresh greens + onion + tomato + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 180g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 100g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 160g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 3 ആഴ്ച! ഇഫ്താർ ശേഷം ഒരു ഗ്ലാസ് ഇളം ചൂടുവെള്ളം — ദഹനം ഉത്തേജനം.\n    _Week 3 done! After Iftar, drink a glass of warm water — aids digestion._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 22,
+      "suhoor": {
+        "dish": "ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട്",
+        "prepTime": "5 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "ഫ്ലാക്സ്സീഡ്",
+          "ഗ്രൗണ്ട്നട്ട് (ഒരു പിടി)"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട്.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട് + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 435,
+          "ajmi": 315,
+          "abu": 418
+        },
+        "healthTip": "ഒമേഗ-3 + ഫൈബർ + ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ദൈനം ഒരു കോംബോ.",
+        "dish_en": "Oats + Flaxseed + Groundnuts",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add flaxseed + groundnuts on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Omega-3 + fibre + healthy fats — a powerful daily combo for weight loss."
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + ചിക്കൻ കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഇഡ്ഡലി",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം",
+          "ഹരിത ചട്ണി"
+        ],
+        "method": [
+          "1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.",
+          "2. ചിക്കൻ കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്.",
+          "3. ഹരിത ചട്ണി."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 200g ചിക്കൻ + ചട്ണി",
+          "ajmi": "2 ഇഡ്ഡലി + 120g ചിക്കൻ + ചട്ണി",
+          "abu": "3 ഇഡ്ഡലി + 180g ചിക്കൻ + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 638,
+          "ajmi": 452,
+          "abu": 602
+        },
+        "healthTip": "കൊക്കം + ഇഞ്ചി ചേർന്ന ചിക്കൻ കറി — ദഹനം ത്വരിതം.",
+        "dish_en": "Idli + Chicken Curry + Green Chutney",
+        "method_en": [
+          "--- Idli ---",
+          "1. Steam idli batter in mould for 10-12 minutes.",
+          "--- Chicken Curry ---",
+          "2. Sauté onion + ginger-garlic + kudampuli + garam masala + tomatoes.",
+          "3. Add chicken, cook 20 minutes till done.",
+          "--- Green Chutney ---",
+          "4. Blend coriander + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Kudampuli + ginger in chicken curry — speeds up digestion after a long fast."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 22 — Day 22*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട്*\n    _Oats + Flaxseed + Groundnuts_\n⏱️ 5 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • ഫ്ലാക്സ്സീഡ്\n  • ഗ്രൗണ്ട്നട്ട് (ഒരു പിടി)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട്.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add flaxseed + groundnuts on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട് + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ഗ്രൗണ്ട്നട്ട് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒമേഗ-3 + ഫൈബർ + ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് — ദൈനം ഒരു കോംബോ.\n    _Omega-3 + fibre + healthy fats — a powerful daily combo for weight loss._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + ചിക്കൻ കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Idli + Chicken Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഇഡ്ഡലി\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം\n  • ഹരിത ചട്ണി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.\n  2. ചിക്കൻ കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്.\n  3. ഹരിത ചട്ണി.\n\n  --- Idli ---\n  1. Steam idli batter in mould for 10-12 minutes.\n  --- Chicken Curry ---\n  2. Sauté onion + ginger-garlic + kudampuli + garam masala + tomatoes.\n  3. Add chicken, cook 20 minutes till done.\n  --- Green Chutney ---\n  4. Blend coriander + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 200g ചിക്കൻ + ചട്ണി\n  • Ajmi: 2 ഇഡ്ഡലി + 120g ചിക്കൻ + ചട്ണി\n  • Abu: 3 ഇഡ്ഡലി + 180g ചിക്കൻ + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* കൊക്കം + ഇഞ്ചി ചേർന്ന ചിക്കൻ കറി — ദഹനം ത്വരിതം.\n    _Kudampuli + ginger in chicken curry — speeds up digestion after a long fast._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 23,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ഗ്രൗണ്ട്നട്ട് ബട്ടർ",
+        "prepTime": "10 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ഗ്രൗണ്ട്നട്ട് ബട്ടർ — 1 ടേ.സ്പൂ."
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ഗ്രൗണ്ട്നട്ട് ബട്ടർ ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 1 ടേ.സ്പൂ. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "1 പത്തിരി + 1 ടേ.സ്പൂ. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + ദഹി",
+          "abu": "2 പത്തിരി + 1 ടേ.സ്പൂ. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 430,
+          "ajmi": 300,
+          "abu": 412
+        },
+        "healthTip": "ഗ്രൗണ്ട്നട്ട് ബട്ടർ — ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് + നോമ്പ് ദിനം ഊർജ്ജം.",
+        "dish_en": "Wheat Pathiri + Peanut Butter",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa (no oil).",
+          "2. Spread peanut butter on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Peanut butter — healthy fats + energy that lasts through the fast."
+      },
+      "iftar": {
+        "dish": "ഓട്സ് ദോശ + മീൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഓട്സ്, ഉഴുന്ന്, ഉപ്പ്",
+          "മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, കൊക്കം, മഞ്ഞൾ, ചുവന്ന മുളക്"
+        ],
+        "method": [
+          "1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം — ദോശ ചുടുക.",
+          "2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി + മീൻ 10 മിനിറ്റ്."
+        ],
+        "portions": {
+          "ammar": "2 ദോശ + 200g മീൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ദോശ + 120g മീൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 ദോശ + 180g മീൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 632,
+          "ajmi": 448,
+          "abu": 597
+        },
+        "healthTip": "ഒമേഗ-3 + ഓട്സ് ഫൈബർ — ഒരു ഉദ്ദേ ദഹനം + ഹൃദ്രോഗ സംരക്ഷണം.",
+        "dish_en": "Oats Dosa + Fish Curry + Fresh Salad",
+        "method_en": [
+          "--- Oats Dosa ---",
+          "1. Mix oats + soaked urad dal + salt + water, cook on hot tawa with little oil.",
+          "--- Fish Curry ---",
+          "2. Sauté onion + ginger-garlic + kudampuli + turmeric + red chilli + tomatoes.",
+          "3. Add fish + water, cook 10 minutes."
+        ],
+        "healthTip_en": "Omega-3 from fish + oats fibre — heart protection + better digestion."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 23 — Day 23*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + ഗ്രൗണ്ട്നട്ട് ബട്ടർ*\n    _Wheat Pathiri + Peanut Butter_\n⏱️ 10 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ഗ്രൗണ്ട്നട്ട് ബട്ടർ — 1 ടേ.സ്പൂ.\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ഗ്രൗണ്ട്നട്ട് ബട്ടർ ഒപ്പം.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa (no oil).\n  2. Spread peanut butter on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 1 ടേ.സ്പൂ. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 1 പത്തിരി + 1 ടേ.സ്പൂ. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + ദഹി\n  • Abu: 2 പത്തിരി + 1 ടേ.സ്പൂ. ഗ്രൗണ്ട്നട്ട് ബട്ടർ + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഗ്രൗണ്ട്നട്ട് ബട്ടർ — ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് + നോമ്പ് ദിനം ഊർജ്ജം.\n    _Peanut butter — healthy fats + energy that lasts through the fast._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഓട്സ് ദോശ + മീൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Oats Dosa + Fish Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്, ഉഴുന്ന്, ഉപ്പ്\n  • മീൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, കൊക്കം, മഞ്ഞൾ, ചുവന്ന മുളക്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ഉഴുന്ന് + ഉപ്പ് + വെള്ളം — ദോശ ചുടുക.\n  2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + മഞ്ഞൾ + ചുവന്ന മുളക് + തക്കാളി + മീൻ 10 മിനിറ്റ്.\n\n  --- Oats Dosa ---\n  1. Mix oats + soaked urad dal + salt + water, cook on hot tawa with little oil.\n  --- Fish Curry ---\n  2. Sauté onion + ginger-garlic + kudampuli + turmeric + red chilli + tomatoes.\n  3. Add fish + water, cook 10 minutes.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 ദോശ + 200g മീൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ദോശ + 120g മീൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 ദോശ + 180g മീൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒമേഗ-3 + ഓട്സ് ഫൈബർ — ഒരു ഉദ്ദേ ദഹനം + ഹൃദ്രോഗ സംരക്ഷണം.\n    _Omega-3 from fish + oats fibre — heart protection + better digestion._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 24,
+      "suhoor": {
+        "dish": "ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി",
+        "prepTime": "10 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 470,
+          "ajmi": 330,
+          "abu": 450
+        },
+        "healthTip": "ഒരുദ്ദേ കറ — ദ്രുതം ദഹിക്കുന്നു, ഊർജ്ജം ദ്രുതം.",
+        "dish_en": "Oats + 2 Boiled Eggs",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Take boiled eggs from fridge, peel and serve.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Oats + eggs — slow carb + high protein — perfect Suhoor combination."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "കടല (വേവിച്ചത്) — 2 കപ്പ്",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മഞ്ഞൾ, ഗരം മസാല, തേങ്ങ പാൽ (2 ടേ.സ്പൂ.)",
+          "ഹരിത ചട്ണി"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. കടലക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + കടല + തേങ്ങ പാൽ 10 മിനിറ്റ്.",
+          "3. ഹരിത ചട്ണി: ധനിയ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ്."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 1 കപ്പ് കടലക്കറി + ചട്ണി",
+          "ajmi": "2 ചെറിയ പത്തിരി + ¾ കടലക്കറി + ചട്ണി",
+          "abu": "2 പത്തിരി + 1 കപ്പ് കടലക്കറി + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 608,
+          "ajmi": 432,
+          "abu": 575
+        },
+        "healthTip": "ദൈനം ഒരു കപ്പ് കടല — ഭക്ഷ്യ ഫൈബർ + പ്രോട്ടീൻ.",
+        "dish_en": "Wheat Pathiri + Kadala Curry + Green Chutney",
+        "method_en": [
+          "1. Roll out wheat dough, cook on hot tawa (no oil).",
+          "2. Sauté onion + ginger-garlic + garam masala + tomatoes in 1 tbsp oil.",
+          "3. Add cooked chickpeas + 2 tbsp coconut milk, cook 10 minutes.",
+          "4. Green chutney: blend coriander + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Kadala (chickpeas) daily — high fibre + protein for lasting energy."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 24 — Day 24*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി*\n    _Oats + 2 Boiled Eggs_\n⏱️ 10 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Take boiled eggs from fridge, peel and serve.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 1 മുട്ട + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒരുദ്ദേ കറ — ദ്രുതം ദഹിക്കുന്നു, ഊർജ്ജം ദ്രുതം.\n    _Oats + eggs — slow carb + high protein — perfect Suhoor combination._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Wheat Pathiri + Kadala Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • കടല (വേവിച്ചത്) — 2 കപ്പ്\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മഞ്ഞൾ, ഗരം മസാല, തേങ്ങ പാൽ (2 ടേ.സ്പൂ.)\n  • ഹരിത ചട്ണി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. കടലക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + കടല + തേങ്ങ പാൽ 10 മിനിറ്റ്.\n  3. ഹരിത ചട്ണി: ധനിയ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ്.\n\n  1. Roll out wheat dough, cook on hot tawa (no oil).\n  2. Sauté onion + ginger-garlic + garam masala + tomatoes in 1 tbsp oil.\n  3. Add cooked chickpeas + 2 tbsp coconut milk, cook 10 minutes.\n  4. Green chutney: blend coriander + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 1 കപ്പ് കടലക്കറി + ചട്ണി\n  • Ajmi: 2 ചെറിയ പത്തിരി + ¾ കടലക്കറി + ചട്ണി\n  • Abu: 2 പത്തിരി + 1 കപ്പ് കടലക്കറി + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ദൈനം ഒരു കപ്പ് കടല — ഭക്ഷ്യ ഫൈബർ + പ്രോട്ടീൻ.\n    _Kadala (chickpeas) daily — high fibre + protein for lasting energy._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 25,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ഫ്ലാക്സ്സീഡ് — 1 ടേ.സ്പൂ.",
+          "ഗ്രീൻ ടി / ദഹി"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ഫ്ലാക്സ്സീഡ് ഒപ്പം.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "1 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി",
+          "abu": "2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 408,
+          "ajmi": 288,
+          "abu": 390
+        },
+        "healthTip": "ഒമേഗ-3 + ഗോതമ്പ് ഫൈബർ — ഒരു ഉദ്ദേ ദഹനം.",
+        "dish_en": "Wheat Pathiri + Flaxseed",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa (no oil).",
+          "2. Sprinkle flaxseed alongside.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Omega-3 + wheat fibre — great digestion combo for Suhoor."
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + മുട്ടക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഇഡ്ഡലി",
+          "മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, തേങ്ങ പാൽ",
+          "ഹരിത ചട്ണി"
+        ],
+        "method": [
+          "1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.",
+          "2. മുട്ടക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + വേവിച്ച മുട്ട + തേങ്ങ പാൽ 10 മിനിറ്റ്.",
+          "3. ഹരിത ചട്ണി: ധനിയ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ്."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി",
+          "ajmi": "2 ഇഡ്ഡലി + 2 മുട്ട + ചട്ണി",
+          "abu": "3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 598,
+          "ajmi": 425,
+          "abu": 565
+        },
+        "healthTip": "ഇഡ്ഡലി + മുട്ടക്കറി — ഫർമൻ്റഡ് + ഉയർന്ന പ്രോട്ടീൻ.",
+        "dish_en": "Idli + Egg Curry + Green Chutney",
+        "method_en": [
+          "--- Idli ---",
+          "1. Steam idli batter in mould for 10-12 minutes.",
+          "--- Egg Curry ---",
+          "2. Sauté onion + ginger-garlic + garam masala + tomatoes in 1 tbsp oil.",
+          "3. Add boiled eggs + 2 tbsp coconut milk, cook 10 minutes.",
+          "--- Green Chutney ---",
+          "4. Blend coriander + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Idli + egg curry — fermented + high protein. A powerful Iftar combo."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 25 — Day 25*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി*\n    _Wheat Pathiri + Flaxseed_\n⏱️ 12 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ഫ്ലാക്സ്സീഡ് — 1 ടേ.സ്പൂ.\n  • ഗ്രീൻ ടി / ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ഫ്ലാക്സ്സീഡ് ഒപ്പം.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa (no oil).\n  2. Sprinkle flaxseed alongside.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 1 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി\n  • Abu: 2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒമേഗ-3 + ഗോതമ്പ് ഫൈബർ — ഒരു ഉദ്ദേ ദഹനം.\n    _Omega-3 + wheat fibre — great digestion combo for Suhoor._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + മുട്ടക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Idli + Egg Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഇഡ്ഡലി\n  • മുട്ട — Ammar: 3, Ajmi: 2, Abu: 3\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, തേങ്ങ പാൽ\n  • ഹരിത ചട്ണി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.\n  2. മുട്ടക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + വേവിച്ച മുട്ട + തേങ്ങ പാൽ 10 മിനിറ്റ്.\n  3. ഹരിത ചട്ണി: ധനിയ + ഹരിത മുളക് + ലിമ്മൺ + ഉപ്പ്.\n\n  --- Idli ---\n  1. Steam idli batter in mould for 10-12 minutes.\n  --- Egg Curry ---\n  2. Sauté onion + ginger-garlic + garam masala + tomatoes in 1 tbsp oil.\n  3. Add boiled eggs + 2 tbsp coconut milk, cook 10 minutes.\n  --- Green Chutney ---\n  4. Blend coriander + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി\n  • Ajmi: 2 ഇഡ്ഡലി + 2 മുട്ട + ചട്ണി\n  • Abu: 3 ഇഡ്ഡലി + 3 മുട്ട + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഇഡ്ഡലി + മുട്ടക്കറി — ഫർമൻ്റഡ് + ഉയർന്ന പ്രോട്ടീൻ.\n    _Idli + egg curry — fermented + high protein. A powerful Iftar combo._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 26,
+      "suhoor": {
+        "dish": "ഓട്സ് + ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി",
+        "prepTime": "5 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "ബദാം — 5",
+          "ഗ്രൗണ്ട്നട്ട്"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ബദാം + ഗ്രൗണ്ട്നട്ട്.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 450,
+          "ajmi": 325,
+          "abu": 432
+        },
+        "healthTip": "ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് + ഫൈബർ — ഭക്ഷ്യ ആഗ്രഹം നിയന്ത്രണം.",
+        "dish_en": "Oats + Almonds + Groundnuts",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add almonds + groundnuts on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Healthy fats + fibre — controls hunger and keeps energy steady."
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് ദോശ + ചിക്കൻ-കടല കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് + ഉഴുന്ന് ദോശ",
+          "ചിക്കൻ — Ammar: 150g, Ajmi: 90g, Abu: 130g",
+          "കടല — 1 കപ്പ്",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് + ഉഴുന്ന് ദോശ ചുടുക.",
+          "2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + കൊക്കം + തക്കാളി + ചിക്കൻ + കടല — 25 മിനിറ്റ്."
+        ],
+        "portions": {
+          "ammar": "2 ദോശ + 150g ചിക്കൻ + ½ കടല + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ദോശ + 90g ചിക്കൻ + ½ കടല + 1 കപ്പ് സലാഡ്",
+          "abu": "2 ദോശ + 130g ചിക്കൻ + ½ കടല + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 638,
+          "ajmi": 452,
+          "abu": 602
+        },
+        "healthTip": "ദൈനം ഭക്ഷ്യ ശ്രദ്ധ — ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും ഈ ശൈലി തുടരൂ.",
+        "dish_en": "Wheat Dosa + Chicken & Kadala Curry + Fresh Salad",
+        "method_en": [
+          "--- Wheat Dosa ---",
+          "1. Mix wheat flour + urad dal + salt + water, cook dosas on hot tawa.",
+          "--- Chicken & Kadala Curry ---",
+          "2. Sauté onion + ginger-garlic + garam masala + kudampuli + tomatoes.",
+          "3. Add chicken + cooked chickpeas, cook 25 minutes.",
+          "--- Salad ---",
+          "4. Toss fresh greens + tomato + onion + lemon + salt."
+        ],
+        "healthTip_en": "Keep this healthy lifestyle going after Eid — your body will thank you."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 26 — Day 26*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി*\n    _Oats + Almonds + Groundnuts_\n⏱️ 5 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • ബദാം — 5\n  • ഗ്രൗണ്ട്നട്ട്\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ബദാം + ഗ്രൗണ്ട്നട്ട്.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add almonds + groundnuts on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രൗണ്ട്നട്ട് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ആരോഗ്യകരമായ ഫ്യാറ്റ്സ് + ഫൈബർ — ഭക്ഷ്യ ആഗ്രഹം നിയന്ത്രണം.\n    _Healthy fats + fibre — controls hunger and keeps energy steady._\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് ദോശ + ചിക്കൻ-കടല കറി + ഫ്രഷ് സലാഡ്*\n    _Wheat Dosa + Chicken & Kadala Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് + ഉഴുന്ന് ദോശ\n  • ചിക്കൻ — Ammar: 150g, Ajmi: 90g, Abu: 130g\n  • കടല — 1 കപ്പ്\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് + ഉഴുന്ന് ദോശ ചുടുക.\n  2. ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + കൊക്കം + തക്കാളി + ചിക്കൻ + കടല — 25 മിനിറ്റ്.\n\n  --- Wheat Dosa ---\n  1. Mix wheat flour + urad dal + salt + water, cook dosas on hot tawa.\n  --- Chicken & Kadala Curry ---\n  2. Sauté onion + ginger-garlic + garam masala + kudampuli + tomatoes.\n  3. Add chicken + cooked chickpeas, cook 25 minutes.\n  --- Salad ---\n  4. Toss fresh greens + tomato + onion + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 ദോശ + 150g ചിക്കൻ + ½ കടല + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ദോശ + 90g ചിക്കൻ + ½ കടല + 1 കപ്പ് സലാഡ്\n  • Abu: 2 ദോശ + 130g ചിക്കൻ + ½ കടല + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ദൈനം ഭക്ഷ്യ ശ്രദ്ധ — ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും ഈ ശൈലി തുടരൂ.\n    _Keep this healthy lifestyle going after Eid — your body will thank you._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 27,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "1 പത്തിരി + 1 മുട്ട + ദഹി",
+          "abu": "2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 455,
+          "ajmi": 310,
+          "abu": 435
+        },
+        "healthTip": "27 ദിനം — ഇനി 3 ദിവസം. ഊർജ്ജം + ആരോഗ്യ ശ്രദ്ധ നിലനിർത്തൂ!",
+        "dish_en": "Wheat Pathiri + 2 Boiled Eggs",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa.",
+          "2. Take boiled eggs from fridge, peel and serve.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "27 days! Only 3 more to go. Keep the energy up!"
+      },
+      "iftar": {
+        "dish": "അപ്പം + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "അപ്പം (ഇന്നലെ മാവ്)",
+          "കടല (വേവിച്ചത്) — 2 കപ്പ്",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മഞ്ഞൾ, ഗരം മസാല",
+          "ഹരിത ചട്ണി"
+        ],
+        "method": [
+          "1. അപ്പം ചൂടുള്ള അപ്പ ചെമ്പിൽ വേവിക്കുക.",
+          "2. കടലക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + കടല 10 മിനിറ്റ്.",
+          "3. ഹരിത ചട്ണി."
+        ],
+        "portions": {
+          "ammar": "2 അപ്പം + 1 കപ്പ് കടലക്കറി + ചട്ണി",
+          "ajmi": "2 ചെറിയ അപ്പം + ¾ കടലക്കറി + ചട്ണി",
+          "abu": "2 അപ്പം + 1 കപ്പ് കടലക്കറി + ചട്ണി"
+        },
+        "calories": {
+          "ammar": 600,
+          "ajmi": 428,
+          "abu": 568
+        },
+        "healthTip": "ദൈനം ഒരു കടല — ഉദ്ദേ ദഹനം + ഹൃദ്രോഗ സംരക്ഷണം.",
+        "dish_en": "Appam + Kadala Curry + Green Chutney",
+        "method_en": [
+          "--- Appam ---",
+          "1. Pour batter (from last night) into appam pan, swirl, cover and cook.",
+          "--- Kadala Curry ---",
+          "2. Sauté onion + ginger-garlic + garam masala + tomatoes.",
+          "3. Add cooked chickpeas, cook 10 minutes.",
+          "--- Green Chutney ---",
+          "4. Blend coriander + green chilli + lemon + salt."
+        ],
+        "healthTip_en": "Chickpeas daily — great for digestion and heart health."
+      },
+      "whatsappMessage": "🌙 *ദിവസം 27 — Day 27*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി*\n    _Wheat Pathiri + 2 Boiled Eggs_\n⏱️ 12 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇടുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ഫ്രിഡ്ജ് മുട്ട ഒപ്പം.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa.\n  2. Take boiled eggs from fridge, peel and serve.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 2 മുട്ട + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 1 പത്തിരി + 1 മുട്ട + ദഹി\n  • Abu: 2 പത്തിരി + 2 മുട്ട + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 27 ദിനം — ഇനി 3 ദിവസം. ഊർജ്ജം + ആരോഗ്യ ശ്രദ്ധ നിലനിർത്തൂ!\n    _27 days! Only 3 more to go. Keep the energy up!_\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *അപ്പം + കടലക്കറി + ഫ്രഷ് ഗ്രീൻ ചട്ണി*\n    _Appam + Kadala Curry + Green Chutney_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • അപ്പം (ഇന്നലെ മാവ്)\n  • കടല (വേവിച്ചത്) — 2 കപ്പ്\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, മഞ്ഞൾ, ഗരം മസാല\n  • ഹരിത ചട്ണി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. അപ്പം ചൂടുള്ള അപ്പ ചെമ്പിൽ വേവിക്കുക.\n  2. കടലക്കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + കടല 10 മിനിറ്റ്.\n  3. ഹരിത ചട്ണി.\n\n  --- Appam ---\n  1. Pour batter (from last night) into appam pan, swirl, cover and cook.\n  --- Kadala Curry ---\n  2. Sauté onion + ginger-garlic + garam masala + tomatoes.\n  3. Add cooked chickpeas, cook 10 minutes.\n  --- Green Chutney ---\n  4. Blend coriander + green chilli + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 അപ്പം + 1 കപ്പ് കടലക്കറി + ചട്ണി\n  • Ajmi: 2 ചെറിയ അപ്പം + ¾ കടലക്കറി + ചട്ണി\n  • Abu: 2 അപ്പം + 1 കപ്പ് കടലക്കറി + ചട്ണി\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ദൈനം ഒരു കടല — ഉദ്ദേ ദഹനം + ഹൃദ്രോഗ സംരക്ഷണം.\n    _Chickpeas daily — great for digestion and heart health._\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 28,
+      "isWeeklySpecial": true,
+      "theme": "🌟 4 ആഴ്ച! ബീഫ്/മട്ടൻ സ്പെഷ്യൽ!",
+      "suhoor": {
+        "dish": "ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ബദാം + ഗ്രീൻ ടി",
+        "prepTime": "5 മിനിറ്റ്",
+        "ingredients": [
+          "ഓട്സ്",
+          "ചൂടുവെള്ളം",
+          "ഫ്ലാക്സ്സീഡ്",
+          "ബദാം — 5"
+        ],
+        "method": [
+          "1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.",
+          "2. ഫ്ലാക്സ്സീഡ് + ബദാം.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "¾ കപ്പ് ഓട്സ് + 5 ബദാം + ദഹി",
+          "abu": "1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 418,
+          "ajmi": 308,
+          "abu": 400
+        },
+        "healthTip": "28 ദിനം! ഇനി 2 ദിവസം. Alhamdulillah!",
+        "dish_en": "Oats + Flaxseed + Almonds",
+        "method_en": [
+          "1. Add oats to hot water, stir for 3 minutes.",
+          "2. Add flaxseed + almonds on top.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "28 days! Alhamdulillah — only 2 more days!"
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ബീഫ്/മട്ടൻ + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ബീഫ്/മട്ടൻ — Ammar: 180g, Ajmi: 100g, Abu: 160g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ഇഞ്ചി, കറി ഇല"
+        ],
+        "method": [
+          "1. ബീഫ്/മട്ടൻ + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ഇഞ്ചി + കറി ഇല — 40 മിനിറ്റ് വേവിക്കുക.",
+          "2. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "3. ഫ്രഷ് സലാഡ്."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 180g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 100g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 160g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 665,
+          "ajmi": 472,
+          "abu": 625
+        },
+        "healthTip": "4 ആഴ്ച! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിതശൈലി. ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും ഈ ശൈലി തുടരൂ!",
+        "dish_en": "Wheat Pathiri + Beef/Mutton Curry + Fresh Salad",
+        "method_en": [
+          "--- Beef/Mutton Curry ---",
+          "1. Marinate meat with turmeric + garam masala + salt.",
+          "2. Sauté onion + ginger-garlic + ginger + curry leaves in 1 tbsp oil.",
+          "3. Add meat + tomatoes, cook on low heat 40 minutes till tender.",
+          "--- Wheat Pathiri ---",
+          "4. Roll out wheat dough, cook on hot tawa (no oil).",
+          "--- Salad ---",
+          "5. Toss fresh greens + onion + tomato + lemon juice + salt."
+        ],
+        "healthTip_en": "Week 4 complete! Keep this healthy lifestyle going strong after Eid. 💪"
+      },
+      "whatsappMessage": "🌙 *ദിവസം 28 — Day 28*\n✨ 🌟 4 ആഴ്ച! ബീഫ്/മട്ടൻ സ്പെഷ്യൽ!\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഓട്സ് + ഫ്ലാക്സ്സീഡ് + ബദാം + ഗ്രീൻ ടി*\n    _Oats + Flaxseed + Almonds_\n⏱️ 5 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഓട്സ്\n  • ചൂടുവെള്ളം\n  • ഫ്ലാക്സ്സീഡ്\n  • ബദാം — 5\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഓട്സ് + ചൂടുവെള്ളം 3 മിനിറ്റ്.\n  2. ഫ്ലാക്സ്സീഡ് + ബദാം.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Add oats to hot water, stir for 3 minutes.\n  2. Add flaxseed + almonds on top.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 1 കപ്പ് ഓട്സ് + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: ¾ കപ്പ് ഓട്സ് + 5 ബദാം + ദഹി\n  • Abu: 1 കപ്പ് ഓട്സ് + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 28 ദിനം! ഇനി 2 ദിവസം. Alhamdulillah!\n    _28 days! Alhamdulillah — only 2 more days!_\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ബീഫ്/മട്ടൻ + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Beef/Mutton Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ബീഫ്/മട്ടൻ — Ammar: 180g, Ajmi: 100g, Abu: 160g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, ഇഞ്ചി, കറി ഇല\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ബീഫ്/മട്ടൻ + ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + തക്കാളി + ഇഞ്ചി + കറി ഇല — 40 മിനിറ്റ് വേവിക്കുക.\n  2. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  3. ഫ്രഷ് സലാഡ്.\n\n  --- Beef/Mutton Curry ---\n  1. Marinate meat with turmeric + garam masala + salt.\n  2. Sauté onion + ginger-garlic + ginger + curry leaves in 1 tbsp oil.\n  3. Add meat + tomatoes, cook on low heat 40 minutes till tender.\n  --- Wheat Pathiri ---\n  4. Roll out wheat dough, cook on hot tawa (no oil).\n  --- Salad ---\n  5. Toss fresh greens + onion + tomato + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 180g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 100g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 160g ബീഫ്/മട്ടൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 4 ആഴ്ച! ഭക്ഷ്യ ശ്രദ്ധ ഒരു ജീവിതശൈലി. ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും ഈ ശൈലി തുടരൂ!\n    _Week 4 complete! Keep this healthy lifestyle going strong after Eid. 💪_\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 29,
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ഫ്ലാക്സ്സീഡ്",
+          "ഗ്രീൻ ടി / ദഹി"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ഫ്ലാക്സ്സീഡ് ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "1 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി",
+          "abu": "2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 408,
+          "ajmi": 288,
+          "abu": 390
+        },
+        "healthTip": "ഒടുവിലത്തെ ദ്ടൊക്സ് ദ്ടൂ — ഒമേഗ-3 + ഗോതമ്പ് ഫൈബർ.",
+        "dish_en": "Wheat Pathiri + Flaxseed",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa (no oil).",
+          "2. Sprinkle flaxseed alongside.",
+          "3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "Day 29! One more day. You are all incredible — keep going!"
+      },
+      "iftar": {
+        "dish": "ഇഡ്ഡലി + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഇഡ്ഡലി",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം"
+        ],
+        "method": [
+          "1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.",
+          "2. ചിക്കൻ കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്."
+        ],
+        "portions": {
+          "ammar": "3 ഇഡ്ഡലി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ഇഡ്ഡലി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്",
+          "abu": "3 ഇഡ്ഡലി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 638,
+          "ajmi": 452,
+          "abu": 602
+        },
+        "healthTip": "29 ദിനം! ഇനി 1 ദിവസം. ഊർജ്ജം + ആരോഗ്യ ശ്രദ്ധ നിലനിർത്തൂ!",
+        "dish_en": "Idli + Chicken Curry + Fresh Salad",
+        "method_en": [
+          "--- Idli ---",
+          "1. Steam idli batter in mould for 10-12 minutes.",
+          "--- Chicken Curry ---",
+          "2. Sauté onion + ginger-garlic + kudampuli + garam masala + tomatoes.",
+          "3. Add chicken, cook 20 minutes till done.",
+          "--- Salad ---",
+          "4. Toss fresh greens + tomato + onion + lemon + salt."
+        ],
+        "healthTip_en": "29 days of healthy eating — tomorrow is the final day! Alhamdulillah!"
+      },
+      "whatsappMessage": "🌙 *ദിവസം 29 — Day 29*\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി*\n    _Wheat Pathiri + Flaxseed_\n⏱️ 12 മിനിറ്റ്\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ഫ്ലാക്സ്സീഡ്\n  • ഗ്രീൻ ടി / ദഹി\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ഫ്ലാക്സ്സീഡ് ഒപ്പം.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa (no oil).\n  2. Sprinkle flaxseed alongside.\n  3. Serve with green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 1 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + ദഹി\n  • Abu: 2 പത്തിരി + 1 ടേ.സ്പൂ. ഫ്ലാക്സ്സീഡ് + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* ഒടുവിലത്തെ ദ്ടൊക്സ് ദ്ടൂ — ഒമേഗ-3 + ഗോതമ്പ് ഫൈബർ.\n    _Day 29! One more day. You are all incredible — keep going!_\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഇഡ്ഡലി + ചിക്കൻ കറി + ഫ്രഷ് സലാഡ്*\n    _Idli + Chicken Curry + Fresh Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഇഡ്ഡലി\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഇഡ്ഡലി ആവി കൊള്ളിക്കുക.\n  2. ചിക്കൻ കറി — ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + കൊക്കം + ഗരം മസാല + തക്കാളി + ചിക്കൻ 20 മിനിറ്റ്.\n\n  --- Idli ---\n  1. Steam idli batter in mould for 10-12 minutes.\n  --- Chicken Curry ---\n  2. Sauté onion + ginger-garlic + kudampuli + garam masala + tomatoes.\n  3. Add chicken, cook 20 minutes till done.\n  --- Salad ---\n  4. Toss fresh greens + tomato + onion + lemon + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 3 ഇഡ്ഡലി + 200g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ഇഡ്ഡലി + 120g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n  • Abu: 3 ഇഡ്ഡലി + 180g ചിക്കൻ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 29 ദിനം! ഇനി 1 ദിവസം. ഊർജ്ജം + ആരോഗ്യ ശ്രദ്ധ നിലനിർത്തൂ!\n    _29 days of healthy eating — tomorrow is the final day! Alhamdulillah!_\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    },
+    {
+      "day": 30,
+      "theme": "🌙 അവസാന ദിനം — ഈദ് മുബാറക്! 🎉",
+      "suhoor": {
+        "dish": "ഗോതമ്പ് പത്തിരി + 2 മുട്ട + ബദാം + ഗ്രീൻ ടി",
+        "prepTime": "12 മിനിറ്റ്",
+        "tip": "30 ദിനവും ഒരുമിച്ചൊരു ആഘോഷ പ്രഭാതം 🌙",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2",
+          "ബദാം — 5"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ (എണ്ണ ഇല്ലാതെ) ചുട്ടെടുക്കുക.",
+          "2. ഫ്രിഡ്ജ് മുട്ട + ബദാം ഒപ്പം.",
+          "3. ഗ്രീൻ ടി / ദഹി."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 2 മുട്ട + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി",
+          "ajmi": "2 ചെറിയ പത്തിരി + 1 മുട്ട + 5 ബദാം + ദഹി",
+          "abu": "2 പത്തിരി + 2 മുട്ട + 5 ബദാം + 1 ഗ്ലാസ് പാൽ"
+        },
+        "calories": {
+          "ammar": 490,
+          "ajmi": 345,
+          "abu": 470
+        },
+        "healthTip": "30 ദിവസം! Alhamdulillah — ഒരു ജീവിതശൈലി ജനിച്ചു. 🎉",
+        "dish_en": "Wheat Pathiri + 2 Boiled Eggs + Almonds",
+        "method_en": [
+          "1. Roll out wheat dough (from last night), cook on hot tawa (no oil).",
+          "2. Take boiled eggs from fridge, peel and serve.",
+          "3. Serve with almonds + green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu)."
+        ],
+        "healthTip_en": "30 days! Alhamdulillah — a healthy lifestyle was born this Ramadan. 🎉"
+      },
+      "iftar": {
+        "dish": "ഗോതമ്പ് പത്തിരി + ചിക്കൻ-കടല ആഘോഷ കറി + ഫ്രഷ് ഫ്രൂട്ട് + ഫ്രഷ് സലാഡ്",
+        "breakFast": "3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+        "ingredients": [
+          "ഗോതമ്പ് മാവ്",
+          "ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g",
+          "കടല — 1 കപ്പ്",
+          "ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം, ഫ്രഷ് ധനിയ",
+          "ഫ്രഷ് ഫ്രൂട്ട് ബോൾ (ആപ്പിൾ, ഓറഞ്ച്, ഗ്രേപ്സ്)",
+          "ഫ്രഷ് ഗ്രീൻ + ടൊമ. + ഉള്ളി + ലിമ്മൺ (സലാഡ്)"
+        ],
+        "method": [
+          "1. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.",
+          "2. ചിക്കൻ + കടല കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + കൊക്കം + തക്കാളി + ചിക്കൻ + കടല — 25-30 മിനിറ്റ്. ഒടുവിൽ ഫ്രഷ് ധനിയ.",
+          "3. ഫ്രൂട്ട് ബോൾ — ആപ്പിൾ + ഓറഞ്ച് + ഗ്രേപ്സ് ചെറുതായി അരിഞ്ഞ് ഒരു ബോൾ.",
+          "4. ഫ്രഷ് സലാഡ് ഒപ്പം."
+        ],
+        "portions": {
+          "ammar": "2 പത്തിരി + 200g ചിക്കൻ + ½ കടല + 1 ഫ്രൂട്ട് ബോൾ + 1 കപ്പ് സലാഡ്",
+          "ajmi": "2 ചെറിയ പത്തിരി + 120g ചിക്കൻ + ½ കടല + 1 ഫ്രൂട്ട് ബോൾ + 1 കപ്പ് സലാഡ്",
+          "abu": "2 പത്തിരി + 180g ചിക്കൻ + ½ കടല + 1 ഫ്രൂട്ട് ബോൾ + 1 കപ്പ് സലാഡ്"
+        },
+        "calories": {
+          "ammar": 690,
+          "ajmi": 495,
+          "abu": 650
+        },
+        "healthTip": "🎉 Eid Mubarak! 30 ദിനം ആരോഗ്യകരമായ ഭക്ഷണം. ഈ ജീവിതശൈലി ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും തുടരൂ. Allah ഭക്ഷ്യ ശ്രദ്ധ + ആരോഗ്യം + ബർക്കത്ത് നൽകട്ടെ! 🌙",
+        "dish_en": "Wheat Pathiri + Chicken & Kadala Celebration Curry + Fresh Fruit Bowl + Salad",
+        "method_en": [
+          "--- Wheat Pathiri ---",
+          "1. Roll out wheat dough, cook on hot tawa (no oil).",
+          "--- Chicken & Kadala Curry ---",
+          "2. Sauté onion + ginger-garlic + garam masala + kudampuli + tomatoes.",
+          "3. Add chicken + cooked chickpeas, cook 25-30 minutes. Garnish with fresh coriander.",
+          "--- Fresh Fruit Bowl ---",
+          "4. Chop apple + orange + grapes into a bowl.",
+          "--- Salad ---",
+          "5. Toss fresh greens + tomato + onion + lemon juice + salt."
+        ],
+        "healthTip_en": "🎉 Eid Mubarak! 30 days of healthy eating. May Allah bless your health, family and this beautiful lifestyle change. Keep it going after Eid! 🌙"
+      },
+      "whatsappMessage": "🌙 *ദിവസം 30 — Day 30*\n✨ 🌙 അവസാന ദിനം — ഈദ് മുബാറക്! 🎉\n━━━━━━━━━━━━━━━━━━\n\n🌅 *സുഹൂർ | SUHOOR*\n━━━━━━━━━━━━━━━━━━\n🍽️ *ഗോതമ്പ് പത്തിരി + 2 മുട്ട + ബദാം + ഗ്രീൻ ടി*\n    _Wheat Pathiri + 2 Boiled Eggs + Almonds_\n⏱️ 12 മിനിറ്റ്\n💭 _30 ദിനവും ഒരുമിച്ചൊരു ആഘോഷ പ്രഭാതം 🌙_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • വേവിച്ച മുട്ട — Ammar: 2, Ajmi: 1, Abu: 2\n  • ബദാം — 5\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ (എണ്ണ ഇല്ലാതെ) ചുട്ടെടുക്കുക.\n  2. ഫ്രിഡ്ജ് മുട്ട + ബദാം ഒപ്പം.\n  3. ഗ്രീൻ ടി / ദഹി.\n\n  1. Roll out wheat dough (from last night), cook on hot tawa (no oil).\n  2. Take boiled eggs from fridge, peel and serve.\n  3. Serve with almonds + green tea / lemon tea (Ammar), curd (Ajmi), milk (Abu).\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 2 മുട്ട + 5 ബദാം + ഗ്രീൻ ടി/ലെമൺ ടി\n  • Ajmi: 2 ചെറിയ പത്തിരി + 1 മുട്ട + 5 ബദാം + ദഹി\n  • Abu: 2 പത്തിരി + 2 മുട്ട + 5 ബദാം + 1 ഗ്ലാസ് പാൽ\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 30 ദിവസം! Alhamdulillah — ഒരു ജീവിതശൈലി ജനിച്ചു. 🎉\n    _30 days! Alhamdulillah — a healthy lifestyle was born this Ramadan. 🎉_\n\n━━━━━━━━━━━━━━━━━━\n🌇 *ഇഫ്താർ | IFTAR*\n━━━━━━━━━━━━━━━━━━\n🕌 *3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം*\n   _(Break fast with 3 dates + 1 glass water. Wait 10 mins before main meal)_\n\n🍽️ *ഗോതമ്പ് പത്തിരി + ചിക്കൻ-കടല ആഘോഷ കറി + ഫ്രഷ് ഫ്രൂട്ട് + ഫ്രഷ് സലാഡ്*\n    _Wheat Pathiri + Chicken & Kadala Celebration Curry + Fresh Fruit Bowl + Salad_\n\n📝 *ചേരുവകൾ | Ingredients:*\n  • ഗോതമ്പ് മാവ്\n  • ചിക്കൻ — Ammar: 200g, Ajmi: 120g, Abu: 180g\n  • കടല — 1 കപ്പ്\n  • ഉള്ളി, തക്കാളി, ഇഞ്ചി-വെളുത്തുള്ളി, ഗരം മസാല, കൊക്കം, ഫ്രഷ് ധനിയ\n  • ഫ്രഷ് ഫ്രൂട്ട് ബോൾ (ആപ്പിൾ, ഓറഞ്ച്, ഗ്രേപ്സ്)\n  • ഫ്രഷ് ഗ്രീൻ + ടൊമ. + ഉള്ളി + ലിമ്മൺ (സലാഡ്)\n\n👨‍🍳 *ഉണ്ടാക്കുന്ന വിധം | Method:*\n  1. ഗോതമ്പ് മാവ് ഇദ്ദുക. ചൂടുള്ള തവ ചുട്ടെടുക്കുക.\n  2. ചിക്കൻ + കടല കറി: ഉള്ളി + ഇഞ്ചി-വെളുത്തുള്ളി + ഗരം മസാല + കൊക്കം + തക്കാളി + ചിക്കൻ + കടല — 25-30 മിനിറ്റ്. ഒടുവിൽ ഫ്രഷ് ധനിയ.\n  3. ഫ്രൂട്ട് ബോൾ — ആപ്പിൾ + ഓറഞ്ച് + ഗ്രേപ്സ് ചെറുതായി അരിഞ്ഞ് ഒരു ബോൾ.\n  4. ഫ്രഷ് സലാഡ് ഒപ്പം.\n\n  --- Wheat Pathiri ---\n  1. Roll out wheat dough, cook on hot tawa (no oil).\n  --- Chicken & Kadala Curry ---\n  2. Sauté onion + ginger-garlic + garam masala + kudampuli + tomatoes.\n  3. Add chicken + cooked chickpeas, cook 25-30 minutes. Garnish with fresh coriander.\n  --- Fresh Fruit Bowl ---\n  4. Chop apple + orange + grapes into a bowl.\n  --- Salad ---\n  5. Toss fresh greens + tomato + onion + lemon juice + salt.\n\n🥣 *പോർഷൻ | Portions:*\n  • Ammar: 2 പത്തിരി + 200g ചിക്കൻ + ½ കടല + 1 ഫ്രൂട്ട് ബോൾ + 1 കപ്പ് സലാഡ്\n  • Ajmi: 2 ചെറിയ പത്തിരി + 120g ചിക്കൻ + ½ കടല + 1 ഫ്രൂട്ട് ബോൾ + 1 കപ്പ് സലാഡ്\n  • Abu: 2 പത്തിരി + 180g ചിക്കൻ + ½ കടല + 1 ഫ്രൂട്ട് ബോൾ + 1 കപ്പ് സലാഡ്\n\n💡 *ആരോഗ്യ ടിപ്പ്:* 🎉 Eid Mubarak! 30 ദിനം ആരോഗ്യകരമായ ഭക്ഷണം. ഈ ജീവിതശൈലി ഇദ്ദ്-ഉൽ-ഫിത്ർ ശേഷവും തുടരൂ. Allah ഭക്ഷ്യ ശ്രദ്ധ + ആരോഗ്യം + ബർക്കത്ത് നൽകട്ടെ! 🌙\n    _🎉 Eid Mubarak! 30 days of healthy eating. May Allah bless your health, family and this beautiful lifestyle change. Keep it going after Eid! 🌙_\n\n━━━━━━━━━━━━━━━━━━\n🤲 _ആരോഗ്യത്തോടെ നോമ്പ് നോൽക്കൂ | Fast with good health_ 🌙"
+    }
+  ],
+  "generalRules": {
+    "suhoor": [
+      "സുഹൂർ ഒഴിവാക്കരുത് — ഊർജ്ജം + ദഹനം",
+      "Ammar-ന്: ഗ്രീൻ ടി അല്ലെങ്കിൽ ലെമൺ ടി (പഞ്ചസാര ഇല്ലാതെ) ദൈനം",
+      "Abu-വിന്: പാൽ 1 ഗ്ലാസ് ദൈനം",
+      "Ajmi-ക്ക്: ദഹി / ലോ-ഫ്യാറ്റ് പാൽ ദൈനം",
+      "മുട്ട — മുൻദിവസം രാത്രി വേവിച്ച് ഫ്രിഡ്ജ്",
+      "ഗോതമ്പ് മാവ് — മുൻദിവസം കുഴച്ചുവക്കുക"
+    ],
+    "iftar": [
+      "ആദ്യം 3 ഈന്തപ്പഴം + 1 ഗ്ലാസ് വെള്ളം",
+      "10-15 മിനിറ്റ് കഴിഞ്ഞ് ഭക്ഷണം",
+      "ഇഫ്താർ ശേഷം 6-8 ഗ്ലാസ് വെള്ളം",
+      "ഭക്ഷണം ഉറങ്ങുന്നതിന് 2 മണിക്കൂർ മുൻപ് തീർക്കുക"
+    ],
+    "exercise": "ഇഫ്താർ ശേഷം 30 മിനിറ്റ് കഴിഞ്ഞ് 20-30 മിനിറ്റ് ഹൽകാ നടത്തം",
+    "oil": "ഒരു ദിവസം 1-2 ടേബ്ൾ സ്പൂൺ മാത്രം",
+    "coconutMilk": "ഒരു കറിയിൽ 2 ടേബ്ൾ സ്പൂൺ മാത്രം"
+  }
+}
