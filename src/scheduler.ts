@@ -60,10 +60,10 @@ export function initScheduler() {
     console.log('🕰️  Scheduler initialized');
     console.log(`📅 Ramadan Start Date: ${config.ramadanStartDate}`);
 
-    // Schedule for 4:30 PM every day
+    // Schedule for 5:00 PM every day
     // Explicitly set timezone to Asia/Kolkata
-    cron.schedule('45 16 * * *', () => {
-        console.log('⏰ Triggering daily meal plan (4:45 PM IST)');
+    cron.schedule('0 17 * * *', () => {
+        console.log('⏰ Triggering daily meal plan (5:00 PM IST)');
         sendDailyMessage('iftar');
     }, {
         timezone: "Asia/Kolkata"
