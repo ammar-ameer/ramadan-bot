@@ -6,7 +6,8 @@ export const config = {
     whatsapp: {
         phoneNumberId: process.env.WHATSAPP_PHONE_NUMBER_ID,
         accessToken: process.env.WHATSAPP_ACCESS_TOKEN,
-        recipientNumber: process.env.RECIPIENT_PHONE_NUMBER,
+        // Support comma-separated list of numbers
+        recipientNumbers: (process.env.RECIPIENT_PHONE_NUMBERS || process.env.RECIPIENT_PHONE_NUMBER || '').split(',').map(n => n.trim()).filter(Boolean),
         apiVersion: 'v18.0', // Updated to a recent version
     },
     ramadanStartDate: process.env.RAMADAN_START_DATE || '2026-02-18', // Default to today/approx start
