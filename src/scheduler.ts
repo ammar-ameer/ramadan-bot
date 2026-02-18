@@ -52,7 +52,7 @@ async function sendDailyMessage(type: 'suhoor' | 'iftar') {
         return;
     }
 
-    console.log(`🚀 Sending Meal Plan for Day ${targetDay} (Scheduled for 5:18 PM IST)...`);
+    console.log(`🚀 Sending Meal Plan for Day ${targetDay} (Scheduled for 5:22 PM IST)...`);
     await whatsAppService.sendToDefault(dayPlan.whatsappMessage);
 }
 
@@ -60,10 +60,10 @@ export function initScheduler() {
     console.log('🕰️  Scheduler initialized');
     console.log(`📅 Ramadan Start Date: ${config.ramadanStartDate}`);
 
-    // Schedule for 5:18 PM every day
+    // Schedule for 5:22 PM every day
     // Explicitly set timezone to Asia/Kolkata
-    cron.schedule('18 17 * * *', () => {
-        console.log('⏰ Triggering daily meal plan (5:18 PM IST)');
+    cron.schedule('22 17 * * *', () => {
+        console.log('⏰ Triggering daily meal plan (5:22 PM IST)');
         sendDailyMessage('iftar');
     }, {
         timezone: "Asia/Kolkata"
